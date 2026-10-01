@@ -1,0 +1,24 @@
+[
+  {
+    "nombre": "Agenda Municipal de Rosario",
+    "tipo": "agenda-municipal",
+    "url": "https://www.rosario.gob.ar/web/agenda",
+    "maximo": 60,
+    "activa": true
+  },
+  {
+    "nombre": "Eventbrite Rosario",
+    "tipo": "jsonld",
+    "url": "https://www.eventbrite.com.ar/d/argentina--rosario/events/",
+    "seguirEnlaces": "href=\"(https://www\\.eventbrite\\.com(?:\\.ar)?/e/[^\"?]+)",
+    "maximo": 30,
+    "excluirGeneros": ["Otros", "Charlas y talleres"],
+    "activa": true
+  },
+  {
+    "nombre": "EJEMPLO calendario iCal (cambiá la URL y poné activa: true)",
+    "tipo": "ical",
+    "url": "https://ejemplo.com/calendario.ics",
+    "activa": false
+  }
+]

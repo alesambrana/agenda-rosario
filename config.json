@@ -1,0 +1,18 @@
+{
+  "nombreSitio": "Agenda Cultural Rosario",
+  "lema": "Todo lo que pasa en la ciudad, en un solo lugar.",
+  "emailContacto": "",
+
+  "formularioProductoras": "",
+  "hojaEventosCSV": "",
+  "contador": "",
+
+  "publicidad": {
+    "contactoTexto": "Anunciá acá",
+    "contactoEnlace": "",
+    "cabecera": { "imagen": "", "enlace": "", "texto": "", "codigoHtml": "" },
+    "lateral":  { "imagen": "", "enlace": "", "texto": "", "codigoHtml": "" },
+    "intermedio": { "imagen": "", "enlace": "", "texto": "", "codigoHtml": "" },
+    "pie":      { "imagen": "", "enlace": "", "texto": "", "codigoHtml": "" }
+  }
+}

@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agenda Cultural Rosario — Próximos eventos</title>
+<meta name="description" content="Teatro, música, cine, muestras, ferias y más: la agenda cultural de Rosario, actualizada todos los días.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230f2a4a'/%3E%3Cpath d='M32 12l5 13h14l-11 8 4 14-12-9-12 9 4-14-11-8h14z' fill='%2366c2f0'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap top-in">
+    <a class="marca" href="./" aria-label="Inicio">
+      <svg viewBox="0 0 64 64" width="34" height="34" aria-hidden="true"><rect width="64" height="64" rx="14" fill="currentColor"/><path d="M32 12l5 13h14l-11 8 4 14-12-9-12 9 4-14-11-8h14z" fill="var(--celeste)"/></svg>
+      <span id="nombreSitio">Agenda Cultural Rosario</span>
+    </a>
+    <nav class="nav">
+      <a href="#destacados">Destacados</a>
+      <a href="#agenda">Agenda</a>
+      <a id="btnCargar" class="btn btn-acento" href="#" target="_blank" rel="noopener">+ Cargar mi evento</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <p class="kicker">Rosario · Santa Fe</p>
+    <h1 id="lema">Todo lo que pasa en la ciudad, en un solo lugar.</h1>
+    <p class="sub">Teatro, música, cine, muestras, ferias y más. Se actualiza solo, todos los días.</p>
+  </div>
+</section>
+
+<div class="wrap"><div class="ad ad-cabecera" data-ad="cabecera"></div></div>
+
+<main class="wrap">
+  <section id="destacados" class="bloque" hidden>
+    <div class="bloque-head">
+      <h2 id="tituloDestacados">Eventos destacados</h2>
+      <p id="subDestacados" class="muted"></p>
+    </div>
+    <div id="gridDestacados" class="grid grid-dest"></div>
+  </section>
+
+  <div class="cols">
+    <section id="agenda" class="bloque principal">
+      <div class="bloque-head"><h2>Próximos eventos</h2><p id="contador" class="muted" aria-live="polite"></p></div>
+
+      <div class="filtros" role="search">
+        <input id="q" type="search" placeholder="Buscar por nombre, lugar o tema…" aria-label="Buscar eventos">
+        <select id="fCuando" aria-label="Cuándo">
+          <option value="todo">Cualquier fecha</option>
+          <option value="hoy">Hoy</option>
+          <option value="finde">Este fin de semana</option>
+          <option value="semana">Próximos 7 días</option>
+          <option value="mes">Próximos 30 días</option>
+        </select>
+        <select id="fPublico" aria-label="Público"><option value="">Todo el público</option></select>
+        <label class="chk"><input id="fGratis" type="checkbox"> Solo gratis</label>
+      </div>
+      <div id="chipsGenero" class="chips" role="group" aria-label="Género"></div>
+
+      <div id="lista" class="grid"></div>
+      <p id="vacio" class="vacio" hidden>No encontramos eventos con esos filtros. Probá quitar alguno.</p>
+      <button id="verMas" class="btn btn-linea" hidden>Ver más eventos</button>
+    </section>
+
+    <aside class="lateral">
+      <div class="ad ad-lateral" data-ad="lateral"></div>
+      <div class="caja-cta">
+        <h3>¿Organizás eventos?</h3>
+        <p>Si sos productora o espacio independiente, sumá tu propuesta gratis para que la vea toda la ciudad.</p>
+        <a class="btn btn-acento" id="btnCargar2" href="#" target="_blank" rel="noopener">Cargar mi evento</a>
+      </div>
+    </aside>
+  </div>
+</main>
+
+<div class="wrap"><div class="ad ad-pie" data-ad="pie"></div></div>
+
+<footer class="pie">
+  <div class="wrap">
+    <p><strong id="nombrePie">Agenda Cultural Rosario</strong> · Información reunida de fuentes públicas y de productoras independientes. Confirmá siempre fecha, horario y precio con la organización antes de asistir.</p>
+    <p class="muted" id="actualizado"></p>
+  </div>
+</footer>
+
+<dialog id="detalle" aria-labelledby="dTitulo">
+  <article>
+    <button class="cerrar" id="cerrar" aria-label="Cerrar">×</button>
+    <div id="dImgWrap" class="d-img"></div>
+    <div class="d-cuerpo">
+      <div class="etiquetas" id="dEtiquetas"></div>
+      <h2 id="dTitulo"></h2>
+      <dl class="datos">
+        <div><dt>Cuándo</dt><dd id="dCuando"></dd></div>
+        <div><dt>Dónde</dt><dd id="dLugar"></dd></div>
+        <div><dt>Público</dt><dd id="dPublico"></dd></div>
+        <div><dt>Género</dt><dd id="dGenero"></dd></div>
+      </dl>
+      <p id="dDesc" class="desc"></p>
+      <div class="entradas">
+        <h3>Cómo conseguir entradas</h3>
+        <p id="dEntradas"></p>
+        <a id="dBoton" class="btn btn-acento" target="_blank" rel="noopener noreferrer" hidden>Ir al sitio del evento</a>
+      </div>
+      <p class="muted" id="dFuente"></p>
+    </div>
+  </article>
+</dialog>
+
+<script src="js/app.js"></script>
+</body>
+</html>
