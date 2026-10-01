@@ -1,0 +1,29 @@
+# Actualiza la agenda automáticamente todos los días (y cuando vos lo pidas).
+# No hace falta tocar este archivo.
+name: Actualizar agenda
+
+on:
+  schedule:
+    - cron: '0 9 * * *'   # 06:00 hora de Rosario, todos los días
+  workflow_dispatch:       # botón "Run workflow" en la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Buscar eventos nuevos
+        run: node scraper/scrape.mjs
+      - name: Guardar cambios
+        run: |
+          git config user.name "Agenda Rosario Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Agenda actualizada $(date -u +%F)"
+          git push
