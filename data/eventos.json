@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-10-14T14:08:22.725Z",
+ "actualizado": "2026-10-15T13:45:59.261Z",
  "eventos": [
   {
    "titulo": "50 veinticuatros. Sentidos y recorridos de las marchas por memoria, verdad y justicia",
-   "inicio": "2026-10-08",
+   "inicio": "2026-10-14",
    "fin": "2027-01-31",
    "lugar": "Museo de la Memoria\n CORDOBA 2019, Rosario",
    "descripcion": "En la sala de muestras transitorias Juan Emilio Basso Feresin del Museo de la Memoria, se inaugura 50 veinticuatros, con curaduría de Leticia Rigat y asesoría historiográfica de Gabriela Águila y Pablo Suárez. \n\nOrganizada en tres tiempos —dictadura, primeros años de democracia y nuevo siglo—, la exposición propone un recorrido multisensorial por las transformaciones del 24 de marzo en el imaginario colectivo, desde las primeras denuncias hasta la ampliación contemporánea de las agendas de memoria, verdad y justicia. \n\nUna retrospectiva de los 24 de marzo en Rosario.\n\nLa muestra podrá…",
@@ -17,195 +17,15 @@
    "fuente": "Agenda Municipal de Rosario",
    "genero": "Artes visuales",
    "publico": "Todo público",
-   "id": "emlfr4v"
-  },
-  {
-   "titulo": "Exposición La Noche de Los Lápices. Ayer y hoy",
-   "inicio": "2026-10-08",
-   "fin": "2026-11-06",
-   "lugar": "Centro Municipal de Distrito Noroeste \"Olga y Leticia Cossettini\"\n PROVINCIAS UNIDAS 150 BIS, Rosario",
-   "descripcion": "Itinerancia de la muestra surgida de la IV Convocatoria de Arte Correo dirigida a escuelas secundarias organizada con el colectivo Mujeraje y el grupo El Pedal, con motivo de rememorar y reflexionar acerca de este suceso que formó parte del plan represivo puesto en marcha por la dictadura, en el marco de los 50 años del golpe cívico-militar.\n\nSe expone la producción de estudiantes de las escuelas Normal N° 2, N° 338 Constancio C. Vigil, N° 542 Julio Cortázar y la N° 251 Dr. Víctor Bibian Cue. La muestra puede verse en la Biblioteca Popular Constancio C. Vigil del 1 al 9 de octubre, luego en…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/NOCHEL%C3%81PICES%20gestor%20_0.png.webp?itok=kcCOskkF",
-   "url": "https://www.rosario.gob.ar/inicio/exposicion-la-noche-de-los-lapices.-ayer-y-hoy",
-   "entradas": {
-    "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/exposicion-la-noche-de-los-lapices.-ayer-y-hoy",
-    "texto": "Consultar en la página oficial de la agenda municipal"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Artes visuales",
-   "publico": "Todo público",
-   "id": "egzehxt"
-  },
-  {
-   "titulo": "\"Lo que me dice el río mientras duermo\"",
-   "inicio": "2026-10-08",
-   "fin": "2026-10-31",
-   "lugar": "Museo de Arte Decorativo Firma y Odilo Estevez\n SANTA FE 748, Rosario",
-   "descripcion": "En la sala de Exposición (Subsuelo) del Museo Estevez, Carla Beretta presenta \"Lo que me dice el río mientras duermo\", una exposición integrada por textiles y pinturas nacidos de su vínculo con el paisaje del río Paraná y las islas.\n\nA partir de registros fotográficos y un sostenido trabajo de experimentación, la artista construye una poética visual en la que la observación, la memoria y la imaginación dialogan para dar forma a un universo atravesado por la experiencia del litoral. La muestra cuenta con texto de sala de la historiadora del arte Adriana Armando.",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-08/Lo%20que%20me%20dice%20el%20r%C3%ADo%20mientras%20duermo%20002%20%28Guillermo%20Turin%20Bootello%29%20%281%29.jpg.webp?itok=xKaTbnNi",
-   "url": "https://www.rosario.gob.ar/inicio/lo-que-me-dice-el-rio-mientras-duermo",
-   "entradas": {
-    "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/lo-que-me-dice-el-rio-mientras-duermo",
-    "texto": "Consultar en la página oficial de la agenda municipal"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Artes visuales",
-   "publico": "Todo público",
-   "id": "eo23kx"
-  },
-  {
-   "titulo": "\"El papel del fuego\" - Hugo Cava",
-   "inicio": "2026-10-08",
-   "fin": "2026-10-31",
-   "lugar": "Museo de Arte Decorativo Firma y Odilo Estevez\n SANTA FE 748, Rosario",
-   "descripcion": "En la sala del vestidor de la casa, Hugo Cava presenta \"El papel del fuego\", con curaduría de Clarisa Appendino.\n\nLa exposición reúne una serie de obras en las que el fuego interviene imágenes impresas para alterar sus superficies y habilitar nuevas lecturas. Lejos de entender la combustión como un acto destructivo, el artista la convierte en un procedimiento de transformación que pone en tensión la permanencia, la fragilidad y la memoria de las imágenes.\n\n\"El encantamiento de las llamas, el azar de las chispas y la fragilidad de las cenizas refieren a ciertos modos en que Hugo ha producido…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-08/El%20papel%20del%20fuego%20010%20%28Guillermo%20Turin%20Bootello%29.jpg.webp?itok=n7A7bL4w",
-   "url": "https://www.rosario.gob.ar/inicio/el-papel-del-fuego-hugo-cava",
-   "entradas": {
-    "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/el-papel-del-fuego-hugo-cava",
-    "texto": "Consultar en la página oficial de la agenda municipal"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Artes visuales",
-   "publico": "Todo público",
-   "id": "e7dx5ud"
-  },
-  {
-   "titulo": "A favor de la fantasía en contra de la inflación",
-   "inicio": "2026-10-08",
-   "fin": "2026-11-01",
-   "lugar": "Museo de Arte Contemporáneo Rosario (MACRO)\n LOPEZ ESTANISLAO 2250, Rosario",
-   "descripcion": "El Museo de Arte Contemporáneo de Rosario (Bv. Oroño y el río Paraná) inaugura su programa curatorial 2026 bajo el concepto LIBREDEUDA, renovando así las propuestas de los 7 pisos expositivos. A partir del viernes 8 de mayo, te invitamos a recorrer A favor de la fantasía en contra de la inflación. Obras de la colección del Museo de arte contemporáneo de Rosario. Curaduría: Georgina Ricci, Leandro Comba y Adrián Radicci.\n\nLa exposición de la colección aborda de manera problemática la noción de deuda a partir de su patrimonio, activando núcleos específicos de la colección para poner en…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-04/fantasia.png.webp?itok=uIVhmGWG",
-   "url": "https://www.rosario.gob.ar/inicio/favor-de-la-fantasia-en-contra-de-la-inflacion",
-   "entradas": {
-    "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/favor-de-la-fantasia-en-contra-de-la-inflacion",
-    "texto": "Consultar en la página oficial de la agenda municipal"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Artes visuales",
-   "publico": "Todo público",
-   "id": "egwi37l"
-  },
-  {
-   "titulo": "GEOLOCALIZADOS: Un puente entre la imagen y la palabra",
-   "inicio": "2026-10-08",
-   "fin": "2026-11-01",
-   "lugar": "Museo de Arte Contemporáneo Rosario (MACRO)\n LOPEZ ESTANISLAO 2250, Rosario",
-   "descripcion": "Este viernes 28 de agosto a las 19 h, el Museo de arte contemporáneo de Rosario (macro) renueva parte de su programación y presenta las nuevas muestras de su eje curatorial LIBREDEUDA\n\n[Planta baja] GEOLOCALIZADOS: Un puente entre la imagen y la palabra. Programas Irradiaciones+accesibilidad\n\nIrradiaciones+accesibilidad renueva su muestra dentro del programa anual y presenta para esta parte del año un proyecto de Malena Bertetti en articulación con el MUCAR (Movimiento de Unidad de Ciegos y Amblíopes de Rosario). Geolocalizados aborda la accesibilidad cultural como una práctica…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-08/img%20libredeuda2_Mesa%20de%20trabajo%2024%20copia%206.jpg.webp?itok=O_-1m2SA",
-   "url": "https://www.rosario.gob.ar/inicio/geolocalizados-un-puente-entre-la-imagen-y-la-palabra",
-   "entradas": {
-    "gratis": true,
-    "url": "https://www.rosario.gob.ar/inicio/geolocalizados-un-puente-entre-la-imagen-y-la-palabra",
-    "texto": "Entrada libre y gratuita"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Artes visuales",
-   "publico": "Todo público",
-   "id": "e12gn70j"
-  },
-  {
-   "titulo": "Nivel de Río. Instalación de Maxi Murad",
-   "inicio": "2026-10-08",
-   "fin": "2026-11-29",
-   "lugar": "Museo de Arte Contemporáneo Rosario (MACRO)\n LOPEZ ESTANISLAO 2250, Rosario",
-   "descripcion": "El Museo de Arte Contemporáneo de Rosario (Bv. Oroño y el río Paraná) inaugura su programa curatorial 2026 bajo el concepto LIBREDEUDA, renovando así las propuestas de los 7 pisos expositivos. Además, se instalará en la explanada del museo la obra de Maxi Murad: Nivel de Río.\n\nSe trata de una escultura de sitio específico que reinterpreta la icónica geometría de los Silos Davis, traduciendo la escala monumental a una dimensión humana y fragmentada. Una pieza construida en hormigón blanco con inclusiones de cuarzo que se emplazará en la costa rosarina.\n\nParticipan del proceso de obra, alumnos…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-04/MURAD.png.webp?itok=800AlBoY",
-   "url": "https://www.rosario.gob.ar/inicio/nivel-de-rio.-instalacion-de-maxi-murad",
-   "entradas": {
-    "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/nivel-de-rio.-instalacion-de-maxi-murad",
-    "texto": "Consultar en la página oficial de la agenda municipal"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Teatro",
-   "publico": "Todo público",
-   "id": "eem0mnl"
-  },
-  {
-   "titulo": "Episodio II: 1976/2026 Que digan dónde están",
-   "inicio": "2026-10-08",
-   "fin": "2026-11-01",
-   "lugar": "Museo de Arte Contemporáneo Rosario (MACRO)\n LOPEZ ESTANISLAO 2250, Rosario",
-   "descripcion": "Este viernes 28 de agosto a las 19 h, el Museo de arte contemporáneo de Rosario (macro) renueva parte de su programación y presenta las nuevas muestras de su eje curatorial LIBREDEUDA\n\n[Piso 7] \n\nEpisodio II: 1976/2026 Que digan dónde están. Obras de la colección del Museo de arte contemporáneo de Rosario.\n\nLa exposición reúne obras de la colección del macro en torno a la memoria, la desaparición forzada y la lucha por la verdad y justicia. \n\nEn el primer episodio se expusieron Exhumación, de Leandro Katz —una incorporación reciente a la colección— y el esténcil de Fernando Traverso de la…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-08/img%20libredeuda2_Mesa%20de%20trabajo%2024%20copia%202.jpg.webp?itok=PoN4Oxmv",
-   "url": "https://www.rosario.gob.ar/inicio/episodio-ii-19762026-que-digan-donde-estan",
-   "entradas": {
-    "gratis": true,
-    "url": "https://www.rosario.gob.ar/inicio/episodio-ii-19762026-que-digan-donde-estan",
-    "texto": "Entrada libre y gratuita"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Artes visuales",
-   "publico": "Todo público",
-   "id": "ehgfldx"
-  },
-  {
-   "titulo": "ANATOMÍA DEL FERVOR. Collages 1998. Carlos Herrera",
-   "inicio": "2026-10-08",
-   "fin": "2026-11-01",
-   "lugar": "Museo de Arte Contemporáneo Rosario (MACRO)\n LOPEZ ESTANISLAO 2250, Rosario",
-   "descripcion": "Este viernes 28 de agosto a las 19 h, el Museo de arte contemporáneo de Rosario (macro) renueva parte de su programación y presenta las nuevas muestras de su eje curatorial LIBREDEUDA\n\n[PISO 1]\n\nANATOMÍA DEL FERVOR. Collages 1998 \nCarlos Herrera\n\nTres series de collages que proponen una mirada crítica sobre la relación entre cuerpo, deporte, poder y memoria. A partir de imágenes vinculadas al fútbol argentino, se visualizan tres momentos históricos: el Mundial de 1978, la Guerra de Malvinas y el Mundial de 1982, y el Mundial de México 1986.\n\nLa muestra aborda las distintas formas en que los…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-08/img%20libredeuda2_Mesa%20de%20trabajo%2024%20copia%205.jpg.webp?itok=0S_M00u5",
-   "url": "https://www.rosario.gob.ar/inicio/anatomia-del-fervor.-collages-1998.-carlos-herrera",
-   "entradas": {
-    "gratis": true,
-    "url": "https://www.rosario.gob.ar/inicio/anatomia-del-fervor.-collages-1998.-carlos-herrera",
-    "texto": "Entrada libre y gratuita"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Artes visuales",
-   "publico": "Todo público",
-   "id": "ego3rjf"
-  },
-  {
-   "titulo": "Narcisa Hirsch, un viaje incógnito",
-   "inicio": "2026-10-08",
-   "fin": "2026-11-01",
-   "lugar": "Museo de Arte Contemporáneo Rosario (MACRO)\n LOPEZ ESTANISLAO 2250, Rosario",
-   "descripcion": "Este viernes 28 de agosto a las 19 h, el Museo de arte contemporáneo de Rosario (macro) renueva parte de su programación y presenta las nuevas muestras de su eje curatorial LIBREDEUDA\n\n[Pisos 2 y 3]\n\nNarcisa Hirsch, un viaje incógnito\nNarcisa Hirsch (Alemania, 1928 – Argentina, 2024) es una figura esencial del cine experimental latinoamericano. La primera muestra de la artista en Rosario propone un recorrido por sus películas, graffitis y objetos, a partir de dos geografías que atraviesan su producción: los espacios domésticos de Buenos Aires y la inmensidad de la Patagonia.\n\nLa muestra…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-08/img%20libredeuda2_Mesa%20de%20trabajo%2024%20copia%203.jpg.webp?itok=tal6n0vU",
-   "url": "https://www.rosario.gob.ar/inicio/narcisa-hirsch-un-viaje-incognito",
-   "entradas": {
-    "gratis": true,
-    "url": "https://www.rosario.gob.ar/inicio/narcisa-hirsch-un-viaje-incognito",
-    "texto": "Entrada libre y gratuita"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Cine",
-   "publico": "Todo público",
-   "id": "e1casxt6"
-  },
-  {
-   "titulo": "La Ruta de los Azulejos. Historias, artes y oficios en la ciudad",
-   "inicio": "2026-10-10",
-   "fin": "2027-04-04",
-   "lugar": "Museo de la Ciudad Wladimir Mikielievich\n OROÑO NICASIO 2361, Rosario",
-   "descripcion": "La Ruta de los Azulejos. Historia, artes y oficios de la ciudad es la nueva producción del Museo de la Ciudad, que invita a recorrer la historia de Rosario a través de sus azulejos, entendidos no solo como elementos decorativos sino como huellas de identidad urbana. Nacidos de la arcilla y el fuego los azulejos han sido históricamente mucho más que un recurso constructivo: son la unidad mínima en donde converge el arte, la técnica y la vida cotidiana. Como testigos silenciosos, estas piezas de cerámica vidriada desperdigadas en la trama de la ciudad, custodian el paso del tiempo y nos…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-05/mc_rutaazulejos.png.webp?itok=3YrDwQXy",
-   "url": "https://www.rosario.gob.ar/inicio/la-ruta-de-los-azulejos.-historias-artes-y-oficios-en-la-ciudad",
-   "entradas": {
-    "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/la-ruta-de-los-azulejos.-historias-artes-y-oficios-en-la-ciudad",
-    "texto": "Consultar en la página oficial de la agenda municipal"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Artes visuales",
-   "publico": "Todo público",
-   "id": "evsih0c"
+   "id": "emlfr5m"
   },
   {
    "titulo": "Muestra Colectiva \"Pinceladas Mágicas\"",
-   "inicio": "2026-10-13",
+   "inicio": "2026-10-14",
    "fin": "2026-10-30",
    "lugar": "Centro Municipal de Distrito Centro \"Antonio Berni\"\n WHEELWRIGHT GUILLERMO 1486, Rosario",
    "descripcion": "El Distrito Centro Antonio Berni invita a recorrer “Pinceladas Mágicas”, una muestra colectiva que reúne las producciones de alumnos y alumnas del taller de Dibujo y Pintura de la Asociación de Jubilados del Arte de Curar de Rosario, a cargo del artista plástico y profesor Miguel Ángel Marusso.\n\nLa exposición propone un recorrido por los procesos de creación y búsqueda artística de quienes participan del taller, a través de diferentes materiales, herramientas y soportes. Las obras fueron realizadas con grafito, lápices de colores, acrílicos, óleos, fibrones y acuarelas, explorando diversas…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/WhatsApp%20Image%202026-09-21%20at%2017.12.38.jpeg.webp?itok=LeVmk3j_",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/WhatsApp%20Image%202026-09-21%20at%2017.12.38.jpeg.webp?itok=WGHCC2F9",
    "url": "https://www.rosario.gob.ar/inicio/muestra-colectiva-pinceladas-magicas",
    "entradas": {
     "gratis": false,
@@ -215,133 +35,61 @@
    "fuente": "Agenda Municipal de Rosario",
    "genero": "Artes visuales",
    "publico": "Todo público",
-   "id": "e1vv2hxq"
+   "id": "e1vv2hxr"
   },
   {
-   "titulo": "Circo de Artes Visuales en el Teatro El Círculo",
-   "inicio": "2026-10-13T10:00:00-03:00",
-   "fin": "2026-10-17",
-   "lugar": "Teatro El Círculo\n LAPRIDA FRANCISCO NARCISO 1201, Rosario",
-   "descripcion": "Se inaugura la muestra “A mar abierto” del artista plástico, escritor y cineasta JUAN CARLOS CAPURRO. Entrada libre y gratuita\nLa muestra se puede visitar de lunes a viernes, de 10 a 12.30 y de 16 a 19 hs, y los sábados de 10 a 12 hs.",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/Muestra%20A%20mar%20Abierto.png.webp?itok=vmEkNgZR",
-   "url": "https://www.rosario.gob.ar/inicio/circo-de-artes-visuales-en-el-teatro-el-circulo",
-   "entradas": {
-    "gratis": true,
-    "url": "https://www.rosario.gob.ar/inicio/circo-de-artes-visuales-en-el-teatro-el-circulo",
-    "texto": "Entrada libre y gratuita"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Teatro",
-   "publico": "Todo público",
-   "id": "e1r318b3"
-  },
-  {
-   "titulo": "Muestras en La Tertulia",
-   "inicio": "2026-10-13T17:00:00-03:00",
-   "fin": "2026-10-31",
-   "lugar": "Rosario",
-   "descripcion": "Muestras: Jorgelina Andrea Rey. La Realidad oculta: Collage-Escultura-Técnica Mixta. Sala Principal. \nMuestra Colectiva: Poesía enmarcada. Óleo-Fotografía-Técnica Mixta-Acuarela. Sala Azul. Patrimonio de La Tertulia: Boceto desechado Estación Fluvial - Raúl Domínguez. Colección de fotografía estable - Livio Castellani. \nDías y horarios: Mar a Vie 17-20 | Mar, Jue, y Sáb 10-13 hs.\nGalería de Arte La Tertulia. 3 de Febrero 464.",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/La%20Tertulia.png.webp?itok=9qyaKOtM",
-   "url": "https://www.rosario.gob.ar/inicio/muestras-en-la-tertulia",
+   "titulo": "Exposición La Noche de Los Lápices. Ayer y hoy",
+   "inicio": "2026-10-14",
+   "fin": "2026-11-06",
+   "lugar": "Centro Municipal de Distrito Noroeste \"Olga y Leticia Cossettini\"\n PROVINCIAS UNIDAS 150 BIS, Rosario",
+   "descripcion": "Itinerancia de la muestra surgida de la IV Convocatoria de Arte Correo dirigida a escuelas secundarias organizada con el colectivo Mujeraje y el grupo El Pedal, con motivo de rememorar y reflexionar acerca de este suceso que formó parte del plan represivo puesto en marcha por la dictadura, en el marco de los 50 años del golpe cívico-militar.\n\nSe expone la producción de estudiantes de las escuelas Normal N° 2, N° 338 Constancio C. Vigil, N° 542 Julio Cortázar y la N° 251 Dr. Víctor Bibian Cue. La muestra puede verse en la Biblioteca Popular Constancio C. Vigil del 1 al 9 de octubre, luego en…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/NOCHEL%C3%81PICES%20gestor%20_0.png.webp?itok=TFhQpsNX",
+   "url": "https://www.rosario.gob.ar/inicio/exposicion-la-noche-de-los-lapices.-ayer-y-hoy",
    "entradas": {
     "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/muestras-en-la-tertulia",
+    "url": "https://www.rosario.gob.ar/inicio/exposicion-la-noche-de-los-lapices.-ayer-y-hoy",
     "texto": "Consultar en la página oficial de la agenda municipal"
    },
    "fuente": "Agenda Municipal de Rosario",
    "genero": "Artes visuales",
    "publico": "Todo público",
-   "id": "e1w1s4vs"
+   "id": "egzehyk"
   },
   {
-   "titulo": "Feria Internacional del Libro 2026",
-   "inicio": "2026-10-14",
-   "fin": "2026-10-18",
-   "lugar": "Rosario",
-   "descripcion": "Del 8 al 18 de octubre, en el Cultural Fontanarrosa llega una nueva edición de la Feria Internacional del Libro de Rosario, en esta oportunidad co-organizada por Fundación El Libro, la Municipalidad de Rosario y el Gobierno de la Provincia de Santa Fe. 11 días con mesas, presentaciones, homenajes, talleres y stands de librerías y editoriales locales y de todo el país.\n\nLa Feria Internacional del Libro de Rosario reune a editoriales independientes y grandes sellos, librerías, escritoras, escritores y artistas de todo el país, con una programación amplia y diversa. Habrá espacios dedicados a…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-07/Feria-del-Libro-056-%28Guillermo-Turin-Bootello%29.jpg.webp?itok=f4jO3BkS",
-   "url": "https://www.rosario.gob.ar/inicio/feria-internacional-del-libro-2026",
-   "entradas": {
-    "gratis": true,
-    "url": "https://www.rosario.gob.ar/inicio/feria-internacional-del-libro-2026",
-    "texto": "Entrada libre y gratuita"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Literatura",
-   "publico": "Familiar",
-   "id": "e2idrps"
-  },
-  {
-   "titulo": "Octubre en Cine Lumière",
+   "titulo": "\"Lo que me dice el río mientras duermo\"",
    "inicio": "2026-10-14",
    "fin": "2026-10-31",
-   "lugar": "Rosario",
-   "descripcion": "Celebramos el Día de las películas familiares y funciones especiales de la Cinemateca. Llega Mostra II - Cine fuera de la norma, tres días de encuentro en torno a producciones audiovisuales de temática LGBTIQ+. También estrenos, cine santafesino, cine ATP y mucho más. El cine de barrio más lindo de la ciudad nos espera con más de 20 funciones gratuitas de jueves a domingos.\n\nConsultá la cartelera de Cine Lumière.\n\nOctubre es el mes de los archivos audiovisuales y la Cinemateca presenta dos funciones especiales. Comenzamos con la proyección de NO AMAN EL CIELO, una película de Oscar Favre…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/bajo-pies-plantilla-gestor.jpg.webp?itok=pB4rwTcn",
-   "url": "https://www.rosario.gob.ar/inicio/octubre-en-cine-lumiere-1",
-   "entradas": {
-    "gratis": true,
-    "url": "https://www.rosario.gob.ar/inicio/octubre-en-cine-lumiere-1",
-    "texto": "Entrada libre y gratuita"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Cine",
-   "publico": "Familiar",
-   "id": "e1tmq96q"
-  },
-  {
-   "titulo": "Presentaciones de libros en la Biblioteca Argentina",
-   "inicio": "2026-10-14",
-   "fin": "2027-04-30",
-   "lugar": "Rosario",
-   "descripcion": "En la Biblioteca Argentina Dr. Juan Álvarez se presentan libros destinados al público en general y a todas las edades. Habitualmente se realizan todos los días miércoles (y el último viernes de cada mes). Se podrá asistir hasta el mes de noviembre, inclusive.\n\nAbarcan diversas temáticas y están escritos por autoras y autores de Rosario y otras ciudades cercanas.\n\nEn la Sala Angélica Gorodischer, ubicada en el 4° piso de la institución, se brinda un espacio a autoras y autores locales para posibilitar la difusión y visibilización de su obra.\n\nCon entrada libre y gratuita.",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-06/Presentaci%C3%B3n-de-libro-en-la-Sala-Ang%C3%A9lica-Gorodischer-en-la-BIblioteca-Argentina-Dr.-Juan-%C3%81lvarez.png.webp?itok=kLeSONqv",
-   "url": "https://www.rosario.gob.ar/inicio/presentaciones-de-libros-en-la-biblioteca-argentina",
-   "entradas": {
-    "gratis": true,
-    "url": "https://www.rosario.gob.ar/inicio/presentaciones-de-libros-en-la-biblioteca-argentina",
-    "texto": "Entrada libre y gratuita"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Literatura",
-   "publico": "Familiar",
-   "id": "e1wc6ovl"
-  },
-  {
-   "titulo": "Llega una nueva edición del Día del Juego y la Convivencia",
-   "inicio": "2026-10-14",
-   "fin": "",
-   "lugar": "Rosario",
-   "descripcion": "Con la premisa \"aquí... allá... donde estemos, JUGUEMOS\", este miércoles 14 de octubre la Municipalidad de Rosario, desde el proyecto La Ciudad de las Niñas y los Niños, invita a la ciudadanía a transformar el ritmo cotidiano.\n\nDesde 1998 Rosario festeja el primer miércoles de octubre de cada año el Día de Juego y la Convivencia. Este 2026, dado que el miércoles 7 de octubre coincidió con un asueto local, la celebración se traslada al miércoles 14 con un mensaje de las y los integrantes de los Consejos de Niñas y Niños de la ciudad: para que no se pierda el sentido de la jornada, la consigna…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/timthumb%20%281%29.jpg.webp?itok=1Lg3nQr5",
-   "url": "https://www.rosario.gob.ar/inicio/llega-una-nueva-edicion-del-dia-del-juego-y-la-convivencia",
+   "lugar": "Museo de Arte Decorativo Firma y Odilo Estevez\n SANTA FE 748, Rosario",
+   "descripcion": "En la sala de Exposición (Subsuelo) del Museo Estevez, Carla Beretta presenta \"Lo que me dice el río mientras duermo\", una exposición integrada por textiles y pinturas nacidos de su vínculo con el paisaje del río Paraná y las islas.\n\nA partir de registros fotográficos y un sostenido trabajo de experimentación, la artista construye una poética visual en la que la observación, la memoria y la imaginación dialogan para dar forma a un universo atravesado por la experiencia del litoral. La muestra cuenta con texto de sala de la historiadora del arte Adriana Armando.",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-08/Lo%20que%20me%20dice%20el%20r%C3%ADo%20mientras%20duermo%20002%20%28Guillermo%20Turin%20Bootello%29%20%281%29.jpg.webp?itok=lZmPdfCa",
+   "url": "https://www.rosario.gob.ar/inicio/lo-que-me-dice-el-rio-mientras-duermo",
    "entradas": {
     "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/llega-una-nueva-edicion-del-dia-del-juego-y-la-convivencia",
+    "url": "https://www.rosario.gob.ar/inicio/lo-que-me-dice-el-rio-mientras-duermo",
     "texto": "Consultar en la página oficial de la agenda municipal"
    },
    "fuente": "Agenda Municipal de Rosario",
-   "genero": "Infantil",
-   "publico": "Infantil y familiar",
-   "id": "e178vfa9"
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "eo23lo"
   },
   {
-   "titulo": "Primavera en La Granja de la Infancia",
+   "titulo": "\"El papel del fuego\" - Hugo Cava",
    "inicio": "2026-10-14",
-   "fin": "2026-11-29",
-   "lugar": "La Granja de la Infancia\n PERON PRESIDENTE JUAN DOM 8000, Rosario",
-   "descripcion": "Un territorio de encuentro entre cultura y naturaleza, donde todo palpita, produce vida, crece, se transforma. Un paseo en la ciudad donde sentir el terreno, llenarse de verde, correr, saltar, trepar, también amasar, tejer, moldear y explorar, hacer nacer el paisaje y jugar para seguir jugando.\n\nJunto a El Jardín de los Niños y La Isla de los inventos, integra el proyecto Tríptico de la Infancia.\n\nEntrada general: $1.000 y menores de 4 años gratis.\n\nPara visitas de grupos educativos, reservar turno llamando de lunes a viernes de 9 a 15 hs. al teléfono 341 5 790221.\n\nMás información en…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/a-granja.jpg.webp?itok=z7AnNjMa",
-   "url": "https://www.rosario.gob.ar/inicio/primavera-en-la-granja-de-la-infancia",
+   "fin": "2026-10-31",
+   "lugar": "Museo de Arte Decorativo Firma y Odilo Estevez\n SANTA FE 748, Rosario",
+   "descripcion": "En la sala del vestidor de la casa, Hugo Cava presenta \"El papel del fuego\", con curaduría de Clarisa Appendino.\n\nLa exposición reúne una serie de obras en las que el fuego interviene imágenes impresas para alterar sus superficies y habilitar nuevas lecturas. Lejos de entender la combustión como un acto destructivo, el artista la convierte en un procedimiento de transformación que pone en tensión la permanencia, la fragilidad y la memoria de las imágenes.\n\n\"El encantamiento de las llamas, el azar de las chispas y la fragilidad de las cenizas refieren a ciertos modos en que Hugo ha producido…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-08/El%20papel%20del%20fuego%20010%20%28Guillermo%20Turin%20Bootello%29.jpg.webp?itok=LnqERyT9",
+   "url": "https://www.rosario.gob.ar/inicio/el-papel-del-fuego-hugo-cava",
    "entradas": {
     "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/primavera-en-la-granja-de-la-infancia",
+    "url": "https://www.rosario.gob.ar/inicio/el-papel-del-fuego-hugo-cava",
     "texto": "Consultar en la página oficial de la agenda municipal"
    },
    "fuente": "Agenda Municipal de Rosario",
-   "genero": "Infantil",
-   "publico": "Infantil y familiar",
-   "id": "ewh2w6y"
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "e7dx5v4"
   },
   {
    "titulo": "La Granja de la Infancia",
@@ -362,22 +110,202 @@
    "id": "e142gt24"
   },
   {
-   "titulo": "Muestra El transcurrir",
-   "inicio": "2026-10-15",
-   "fin": "2026-10-17",
-   "lugar": "Centro Cultural Parque de España / AECI\n SARMIENTO DOMINGO FAUSTIN 101, Rosario",
-   "descripcion": "El Centro Cultural Parque de España inaugura la muestra El transcurrir, de Isidoro Valcárcel Medina, uno de los artistas españoles más relevantes que llega a Rosario con una reflexión sobre el tiempo como experiencia, estructura y medida (1976 y 2026). Curaduría: Ferran Barenblit.\n\nInauguración: 18/9 a las 19 en Galerías del CCPE (Sarmiento y el río). Gratis. Abierta hasta el 17/10, jueves, viernes y sábados de 15 a 19 h en Galerías del CCPE (Sarmiento y el río). Gratis. \n\nEn julio de 1976, Isidoro Valcárcel Medina (Murcia, 1937) presentó en Buenos Aires una exposición en el Centro de Arte y…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/muestra_transcurrir_rosario.jpg.webp?itok=iFtBoW3c",
-   "url": "https://www.rosario.gob.ar/inicio/muestra-el-transcurrir",
+   "titulo": "A favor de la fantasía en contra de la inflación",
+   "inicio": "2026-10-14",
+   "fin": "2026-11-01",
+   "lugar": "Museo de Arte Contemporáneo Rosario (MACRO)\n LOPEZ ESTANISLAO 2250, Rosario",
+   "descripcion": "El Museo de Arte Contemporáneo de Rosario (Bv. Oroño y el río Paraná) inaugura su programa curatorial 2026 bajo el concepto LIBREDEUDA, renovando así las propuestas de los 7 pisos expositivos. A partir del viernes 8 de mayo, te invitamos a recorrer A favor de la fantasía en contra de la inflación. Obras de la colección del Museo de arte contemporáneo de Rosario. Curaduría: Georgina Ricci, Leandro Comba y Adrián Radicci.\n\nLa exposición de la colección aborda de manera problemática la noción de deuda a partir de su patrimonio, activando núcleos específicos de la colección para poner en…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-04/fantasia.png.webp?itok=uIVhmGWG",
+   "url": "https://www.rosario.gob.ar/inicio/favor-de-la-fantasia-en-contra-de-la-inflacion",
    "entradas": {
     "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/muestra-el-transcurrir",
+    "url": "https://www.rosario.gob.ar/inicio/favor-de-la-fantasia-en-contra-de-la-inflacion",
     "texto": "Consultar en la página oficial de la agenda municipal"
    },
    "fuente": "Agenda Municipal de Rosario",
    "genero": "Artes visuales",
    "publico": "Todo público",
-   "id": "egb764f"
+   "id": "egwi38c"
+  },
+  {
+   "titulo": "GEOLOCALIZADOS: Un puente entre la imagen y la palabra",
+   "inicio": "2026-10-14",
+   "fin": "2026-11-01",
+   "lugar": "Museo de Arte Contemporáneo Rosario (MACRO)\n LOPEZ ESTANISLAO 2250, Rosario",
+   "descripcion": "Este viernes 28 de agosto a las 19 h, el Museo de arte contemporáneo de Rosario (macro) renueva parte de su programación y presenta las nuevas muestras de su eje curatorial LIBREDEUDA\n\n[Planta baja] GEOLOCALIZADOS: Un puente entre la imagen y la palabra. Programas Irradiaciones+accesibilidad\n\nIrradiaciones+accesibilidad renueva su muestra dentro del programa anual y presenta para esta parte del año un proyecto de Malena Bertetti en articulación con el MUCAR (Movimiento de Unidad de Ciegos y Amblíopes de Rosario). Geolocalizados aborda la accesibilidad cultural como una práctica…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-08/img%20libredeuda2_Mesa%20de%20trabajo%2024%20copia%206.jpg.webp?itok=O_-1m2SA",
+   "url": "https://www.rosario.gob.ar/inicio/geolocalizados-un-puente-entre-la-imagen-y-la-palabra",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/geolocalizados-un-puente-entre-la-imagen-y-la-palabra",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "e12gn71a"
+  },
+  {
+   "titulo": "Nivel de Río. Instalación de Maxi Murad",
+   "inicio": "2026-10-14",
+   "fin": "2026-11-29",
+   "lugar": "Museo de Arte Contemporáneo Rosario (MACRO)\n LOPEZ ESTANISLAO 2250, Rosario",
+   "descripcion": "El Museo de Arte Contemporáneo de Rosario (Bv. Oroño y el río Paraná) inaugura su programa curatorial 2026 bajo el concepto LIBREDEUDA, renovando así las propuestas de los 7 pisos expositivos. Además, se instalará en la explanada del museo la obra de Maxi Murad: Nivel de Río.\n\nSe trata de una escultura de sitio específico que reinterpreta la icónica geometría de los Silos Davis, traduciendo la escala monumental a una dimensión humana y fragmentada. Una pieza construida en hormigón blanco con inclusiones de cuarzo que se emplazará en la costa rosarina.\n\nParticipan del proceso de obra, alumnos…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-04/MURAD.png.webp?itok=800AlBoY",
+   "url": "https://www.rosario.gob.ar/inicio/nivel-de-rio.-instalacion-de-maxi-murad",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/nivel-de-rio.-instalacion-de-maxi-murad",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Teatro",
+   "publico": "Todo público",
+   "id": "eem0moc"
+  },
+  {
+   "titulo": "Episodio II: 1976/2026 Que digan dónde están",
+   "inicio": "2026-10-14",
+   "fin": "2026-11-01",
+   "lugar": "Museo de Arte Contemporáneo Rosario (MACRO)\n LOPEZ ESTANISLAO 2250, Rosario",
+   "descripcion": "Este viernes 28 de agosto a las 19 h, el Museo de arte contemporáneo de Rosario (macro) renueva parte de su programación y presenta las nuevas muestras de su eje curatorial LIBREDEUDA\n\n[Piso 7] \n\nEpisodio II: 1976/2026 Que digan dónde están. Obras de la colección del Museo de arte contemporáneo de Rosario.\n\nLa exposición reúne obras de la colección del macro en torno a la memoria, la desaparición forzada y la lucha por la verdad y justicia. \n\nEn el primer episodio se expusieron Exhumación, de Leandro Katz —una incorporación reciente a la colección— y el esténcil de Fernando Traverso de la…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-08/img%20libredeuda2_Mesa%20de%20trabajo%2024%20copia%202.jpg.webp?itok=PoN4Oxmv",
+   "url": "https://www.rosario.gob.ar/inicio/episodio-ii-19762026-que-digan-donde-estan",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/episodio-ii-19762026-que-digan-donde-estan",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "ehgfleo"
+  },
+  {
+   "titulo": "ANATOMÍA DEL FERVOR. Collages 1998. Carlos Herrera",
+   "inicio": "2026-10-14",
+   "fin": "2026-11-01",
+   "lugar": "Museo de Arte Contemporáneo Rosario (MACRO)\n LOPEZ ESTANISLAO 2250, Rosario",
+   "descripcion": "Este viernes 28 de agosto a las 19 h, el Museo de arte contemporáneo de Rosario (macro) renueva parte de su programación y presenta las nuevas muestras de su eje curatorial LIBREDEUDA\n\n[PISO 1]\n\nANATOMÍA DEL FERVOR. Collages 1998 \nCarlos Herrera\n\nTres series de collages que proponen una mirada crítica sobre la relación entre cuerpo, deporte, poder y memoria. A partir de imágenes vinculadas al fútbol argentino, se visualizan tres momentos históricos: el Mundial de 1978, la Guerra de Malvinas y el Mundial de 1982, y el Mundial de México 1986.\n\nLa muestra aborda las distintas formas en que los…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-08/img%20libredeuda2_Mesa%20de%20trabajo%2024%20copia%205.jpg.webp?itok=0S_M00u5",
+   "url": "https://www.rosario.gob.ar/inicio/anatomia-del-fervor.-collages-1998.-carlos-herrera",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/anatomia-del-fervor.-collages-1998.-carlos-herrera",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "ego3rk6"
+  },
+  {
+   "titulo": "Narcisa Hirsch, un viaje incógnito",
+   "inicio": "2026-10-14",
+   "fin": "2026-11-01",
+   "lugar": "Museo de Arte Contemporáneo Rosario (MACRO)\n LOPEZ ESTANISLAO 2250, Rosario",
+   "descripcion": "Este viernes 28 de agosto a las 19 h, el Museo de arte contemporáneo de Rosario (macro) renueva parte de su programación y presenta las nuevas muestras de su eje curatorial LIBREDEUDA\n\n[Pisos 2 y 3]\n\nNarcisa Hirsch, un viaje incógnito\nNarcisa Hirsch (Alemania, 1928 – Argentina, 2024) es una figura esencial del cine experimental latinoamericano. La primera muestra de la artista en Rosario propone un recorrido por sus películas, graffitis y objetos, a partir de dos geografías que atraviesan su producción: los espacios domésticos de Buenos Aires y la inmensidad de la Patagonia.\n\nLa muestra…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-08/img%20libredeuda2_Mesa%20de%20trabajo%2024%20copia%203.jpg.webp?itok=tal6n0vU",
+   "url": "https://www.rosario.gob.ar/inicio/narcisa-hirsch-un-viaje-incognito",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/narcisa-hirsch-un-viaje-incognito",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Cine",
+   "publico": "Todo público",
+   "id": "e1casxtx"
+  },
+  {
+   "titulo": "Circo de Artes Visuales en el Teatro El Círculo",
+   "inicio": "2026-10-14T10:00:00-03:00",
+   "fin": "2026-10-17",
+   "lugar": "Teatro El Círculo\n LAPRIDA FRANCISCO NARCISO 1201, Rosario",
+   "descripcion": "Se inaugura la muestra “A mar abierto” del artista plástico, escritor y cineasta JUAN CARLOS CAPURRO. Entrada libre y gratuita\nLa muestra se puede visitar de lunes a viernes, de 10 a 12.30 y de 16 a 19 hs, y los sábados de 10 a 12 hs.",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/Muestra%20A%20mar%20Abierto.png.webp?itok=vmEkNgZR",
+   "url": "https://www.rosario.gob.ar/inicio/circo-de-artes-visuales-en-el-teatro-el-circulo",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/circo-de-artes-visuales-en-el-teatro-el-circulo",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Teatro",
+   "publico": "Todo público",
+   "id": "e1r318b4"
+  },
+  {
+   "titulo": "Muestras en La Tertulia",
+   "inicio": "2026-10-14T10:00:00-03:00",
+   "fin": "2026-10-31",
+   "lugar": "Rosario",
+   "descripcion": "Muestras: Jorgelina Andrea Rey. La Realidad oculta: Collage-Escultura-Técnica Mixta. Sala Principal. \nMuestra Colectiva: Poesía enmarcada. Óleo-Fotografía-Técnica Mixta-Acuarela. Sala Azul. Patrimonio de La Tertulia: Boceto desechado Estación Fluvial - Raúl Domínguez. Colección de fotografía estable - Livio Castellani. \nDías y horarios: Mar a Vie 17-20 | Mar, Jue, y Sáb 10-13 hs.\nGalería de Arte La Tertulia. 3 de Febrero 464.",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/La%20Tertulia.png.webp?itok=9qyaKOtM",
+   "url": "https://www.rosario.gob.ar/inicio/muestras-en-la-tertulia",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/muestras-en-la-tertulia",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "e1w1s4vt"
+  },
+  {
+   "titulo": "Feria Internacional del Libro 2026",
+   "inicio": "2026-10-15",
+   "fin": "2026-10-18",
+   "lugar": "Rosario",
+   "descripcion": "Del 8 al 18 de octubre, en el Cultural Fontanarrosa llega una nueva edición de la Feria Internacional del Libro de Rosario, en esta oportunidad co-organizada por Fundación El Libro, la Municipalidad de Rosario y el Gobierno de la Provincia de Santa Fe. 11 días con mesas, presentaciones, homenajes, talleres y stands de librerías y editoriales locales y de todo el país.\n\nLa Feria Internacional del Libro de Rosario reune a editoriales independientes y grandes sellos, librerías, escritoras, escritores y artistas de todo el país, con una programación amplia y diversa. Habrá espacios dedicados a…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-07/Feria-del-Libro-056-%28Guillermo-Turin-Bootello%29.jpg.webp?itok=FjDkQDgz",
+   "url": "https://www.rosario.gob.ar/inicio/feria-internacional-del-libro-2026",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/feria-internacional-del-libro-2026",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Literatura",
+   "publico": "Familiar",
+   "id": "e2idrpt"
+  },
+  {
+   "titulo": "Octubre en Cine Lumière",
+   "inicio": "2026-10-15",
+   "fin": "2026-10-31",
+   "lugar": "Rosario",
+   "descripcion": "Celebramos el Día de las películas familiares y funciones especiales de la Cinemateca. Llega Mostra II - Cine fuera de la norma, tres días de encuentro en torno a producciones audiovisuales de temática LGBTIQ+. También estrenos, cine santafesino, cine ATP y mucho más. El cine de barrio más lindo de la ciudad nos espera con más de 20 funciones gratuitas de jueves a domingos.\n\nConsultá la cartelera de Cine Lumière.\n\nOctubre es el mes de los archivos audiovisuales y la Cinemateca presenta dos funciones especiales. Comenzamos con la proyección de NO AMAN EL CIELO, una película de Oscar Favre…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/bajo-pies-plantilla-gestor.jpg.webp?itok=pB4rwTcn",
+   "url": "https://www.rosario.gob.ar/inicio/octubre-en-cine-lumiere-1",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/octubre-en-cine-lumiere-1",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Cine",
+   "publico": "Familiar",
+   "id": "e1tmq96r"
+  },
+  {
+   "titulo": "Primavera en La Granja de la Infancia",
+   "inicio": "2026-10-15",
+   "fin": "2026-11-29",
+   "lugar": "La Granja de la Infancia\n PERON PRESIDENTE JUAN DOM 8000, Rosario",
+   "descripcion": "Un territorio de encuentro entre cultura y naturaleza, donde todo palpita, produce vida, crece, se transforma. Un paseo en la ciudad donde sentir el terreno, llenarse de verde, correr, saltar, trepar, también amasar, tejer, moldear y explorar, hacer nacer el paisaje y jugar para seguir jugando.\n\nJunto a El Jardín de los Niños y La Isla de los inventos, integra el proyecto Tríptico de la Infancia.\n\nEntrada general: $1.000 y menores de 4 años gratis.\n\nPara visitas de grupos educativos, reservar turno llamando de lunes a viernes de 9 a 15 hs. al teléfono 341 5 790221.\n\nMás información en…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/a-granja.jpg.webp?itok=z7AnNjMa",
+   "url": "https://www.rosario.gob.ar/inicio/primavera-en-la-granja-de-la-infancia",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/primavera-en-la-granja-de-la-infancia",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Infantil",
+   "publico": "Infantil y familiar",
+   "id": "ewh2w6z"
   },
   {
    "titulo": "Muestra Siestario",
@@ -396,6 +324,42 @@
    "genero": "Artes visuales",
    "publico": "Todo público",
    "id": "eo0etw6"
+  },
+  {
+   "titulo": "Muestra El transcurrir",
+   "inicio": "2026-10-15",
+   "fin": "2026-10-17",
+   "lugar": "Centro Cultural Parque de España / AECI\n SARMIENTO DOMINGO FAUSTIN 101, Rosario",
+   "descripcion": "El Centro Cultural Parque de España inaugura la muestra El transcurrir, de Isidoro Valcárcel Medina, uno de los artistas españoles más relevantes que llega a Rosario con una reflexión sobre el tiempo como experiencia, estructura y medida (1976 y 2026). Curaduría: Ferran Barenblit.\n\nInauguración: 18/9 a las 19 en Galerías del CCPE (Sarmiento y el río). Gratis. Abierta hasta el 17/10, jueves, viernes y sábados de 15 a 19 h en Galerías del CCPE (Sarmiento y el río). Gratis. \n\nEn julio de 1976, Isidoro Valcárcel Medina (Murcia, 1937) presentó en Buenos Aires una exposición en el Centro de Arte y…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/muestra_transcurrir_rosario.jpg.webp?itok=iFtBoW3c",
+   "url": "https://www.rosario.gob.ar/inicio/muestra-el-transcurrir",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/muestra-el-transcurrir",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "egb764f"
+  },
+  {
+   "titulo": "¿Querés que te cuente un cuento?",
+   "inicio": "2026-10-15",
+   "fin": "2026-10-29",
+   "lugar": "Biblioteca Pública Municipal José Manuel Estrada\n BAYO SERVANDO 799, Rosario",
+   "descripcion": "Taller de lectura para infancias de 6 a 12 años. Coordina Laura Vilche. Una invitación a elegir libros y leer historias en forma individual y grupal, jugar con palabras y reflexionar sobre los textos, su ligazón con el cine y otras expresiones culturales. Jueves de 17.30 a 19h. Inicia el 10 de septiembre. \n\nGratis, con cupo e inscripción previa mediante formulario.",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/Gestor%20%20900%20x%20600%20laura%202.png.webp?itok=hreM12lT",
+   "url": "https://www.rosario.gob.ar/inicio/queres-que-te-cuente-un-cuento-0",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/queres-que-te-cuente-un-cuento-0",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Infantil",
+   "publico": "Todo público",
+   "id": "e8epth0"
   },
   {
    "titulo": "Casa Abierta en Casa de Cultura Barrio Alvear",
@@ -452,6 +416,24 @@
    "id": "ehjic6h"
   },
   {
+   "titulo": "La Ruta de los Azulejos. Historias, artes y oficios en la ciudad",
+   "inicio": "2026-10-17",
+   "fin": "2027-04-04",
+   "lugar": "Museo de la Ciudad Wladimir Mikielievich\n OROÑO NICASIO 2361, Rosario",
+   "descripcion": "La Ruta de los Azulejos. Historia, artes y oficios de la ciudad es la nueva producción del Museo de la Ciudad, que invita a recorrer la historia de Rosario a través de sus azulejos, entendidos no solo como elementos decorativos sino como huellas de identidad urbana. Nacidos de la arcilla y el fuego los azulejos han sido históricamente mucho más que un recurso constructivo: son la unidad mínima en donde converge el arte, la técnica y la vida cotidiana. Como testigos silenciosos, estas piezas de cerámica vidriada desperdigadas en la trama de la ciudad, custodian el paso del tiempo y nos…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-05/mc_rutaazulejos.png.webp?itok=3YrDwQXy",
+   "url": "https://www.rosario.gob.ar/inicio/la-ruta-de-los-azulejos.-historias-artes-y-oficios-en-la-ciudad",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/la-ruta-de-los-azulejos.-historias-artes-y-oficios-en-la-ciudad",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "evsih0j"
+  },
+  {
    "titulo": "VII Encuentro Nacional de Bandas",
    "inicio": "2026-10-17T14:00:00-03:00",
    "fin": "",
@@ -504,6 +486,24 @@
    "genero": "Cine",
    "publico": "Todo público",
    "id": "ewufxdh"
+  },
+  {
+   "titulo": "Visitas Guiadas Biblioteca Estrada",
+   "inicio": "2026-10-20",
+   "fin": "2026-11-26",
+   "lugar": "Biblioteca Pública Municipal José Manuel Estrada\n BAYO SERVANDO 799, Rosario",
+   "descripcion": "PLANETA BIBLIOTECA: La aventura de leer, para escuelas de Niveles Inicial y Primario y otras instituciones educativas y recreativas. Turno Mañana: martes 9h. Turno Tarde: jueves 14h. Duración aproximada: 1hora. Entrega de turnos: Primer semestre, a partir del lunes 2 de marzo. Segundo semestre, a partir de la primera semana después de las Vacaciones de Invierno. Consultas al 341 712-0357 (msn) de lunes a viernes de 8 a 13.30h o a estradabiblioteca@gmail.com",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-03/Visitas%20Guiadas%20Gestor%20Marzo.png.webp?itok=oS9mBR4N",
+   "url": "https://www.rosario.gob.ar/inicio/visitas-guiadas-biblioteca-estrada",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/visitas-guiadas-biblioteca-estrada",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Infantil",
+   "publico": "Todo público",
+   "id": "e1voqnf"
   },
   {
    "titulo": "Milano en Rosario: muestra de mobiliario argentino y charlas en el Pasaje PAN",
