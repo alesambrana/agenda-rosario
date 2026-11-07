@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T16:26:36.811Z",
+ "actualizado": "2026-11-07T15:15:07.121Z",
  "eventos": [
   {
    "titulo": "La Granja de la Infancia",
@@ -25,7 +25,7 @@
    "fin": "2026-11-29",
    "lugar": "Museo de Arte Contemporáneo Rosario (MACRO)\n LOPEZ ESTANISLAO 2250, Rosario",
    "descripcion": "El Museo de Arte Contemporáneo de Rosario (Bv. Oroño y el río Paraná) inaugura su programa curatorial 2026 bajo el concepto LIBREDEUDA, renovando así las propuestas de los 7 pisos expositivos. Además, se instalará en la explanada del museo la obra de Maxi Murad: Nivel de Río.\n\nSe trata de una escultura de sitio específico que reinterpreta la icónica geometría de los Silos Davis, traduciendo la escala monumental a una dimensión humana y fragmentada. Una pieza construida en hormigón blanco con inclusiones de cuarzo que se emplazará en la costa rosarina.\n\nParticipan del proceso de obra, alumnos…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-04/MURAD.png.webp?itok=800AlBoY",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-04/MURAD.png.webp?itok=DozjCoxg",
    "url": "https://www.rosario.gob.ar/inicio/nivel-de-rio.-instalacion-de-maxi-murad",
    "entradas": {
     "gratis": false,
@@ -43,7 +43,7 @@
    "fin": "2027-01-31",
    "lugar": "Museo de la Memoria\n CORDOBA 2019, Rosario",
    "descripcion": "En la sala de muestras transitorias Juan Emilio Basso Feresin del Museo de la Memoria, se inaugura 50 veinticuatros, con curaduría de Leticia Rigat y asesoría historiográfica de Gabriela Águila y Pablo Suárez. \n\nOrganizada en tres tiempos —dictadura, primeros años de democracia y nuevo siglo—, la exposición propone un recorrido multisensorial por las transformaciones del 24 de marzo en el imaginario colectivo, desde las primeras denuncias hasta la ampliación contemporánea de las agendas de memoria, verdad y justicia. \n\nUna retrospectiva de los 24 de marzo en Rosario.\n\nLa muestra podrá…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-03/50%2024%20veinticuatros.png.webp?itok=MlhFYMf7",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-03/50%2024%20veinticuatros.png.webp?itok=hwmF0cI3",
    "url": "https://www.rosario.gob.ar/inicio/50-veinticuatros.-sentidos-y-recorridos-de-las-marchas-por-memoria-verdad-y-justicia",
    "entradas": {
     "gratis": false,
@@ -61,7 +61,7 @@
    "fin": "2026-11-19",
    "lugar": "Secretaría de Cultura y Educación\n DEL VALLE ARISTOBULO 2734, Rosario",
    "descripcion": "La Secretaría de Cultura y Educación invita a recorrer la muestra colectiva “Señor D: Cerámicas del Origen. Relecturas Contemporáneas del Noroeste Argentino”, que reúne las producciones de estudiantes del Taller de Alfarería Ancestral de la Facultad de Humanidades y Artes de la Universidad Nacional de Rosario (UNR). La propuesta fue declarada de Interés Municipal por el Concejo Municipal de Rosario y de Interés Provincial por la Cámara de Senadores de la Provincia de Santa Fe.\n\nA través de la cerámica y el grabado, las obras recuperan el legado de las culturas precolombinas del Noroeste…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/se%C3%B1or%20d%20secretaria.png.webp?itok=dW-CFppg",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/se%C3%B1or%20d%20secretaria.png.webp?itok=IIyWubQu",
    "url": "https://www.rosario.gob.ar/inicio/muestra-senor-d-ceramicas-del-origen.-relecturas-contemporaneas-del-noroeste-argentino-0",
    "entradas": {
     "gratis": false,
@@ -79,7 +79,7 @@
    "fin": "2026-11-28",
    "lugar": "Casa de Cultura Barrio Alvear\n LETT FRANCISCO N 4253, Rosario",
    "descripcion": "La Casa de Cultura Barrio Alvear se abre para jugar, imaginar, compartir cuentos, armar rompecabezas y construir con bloques. Todos los jueves y viernes de 13 a 18 h se encuentra disponible el espacio para primera infancia con alfombras que narran, libros blandos, juguetes de arrastre y juegos de vereda. Ideal para compartir en familia, con amigos, grandes y chicos. \n\nEn noviembre, la propuesta se realiza también los sábados 7 y 28, de 14 a 18 h. La entrada es libre y gratuita.",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-03/Casa%20de%20Cultura.jpg.webp?itok=wafcY_vJ",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-03/Casa%20de%20Cultura.jpg.webp?itok=1zXCqF7-",
    "url": "https://www.rosario.gob.ar/inicio/casa-abierta-en-casa-de-cultura-barrio-alvear",
    "entradas": {
     "gratis": true,
@@ -90,24 +90,6 @@
    "genero": "Infantil",
    "publico": "Bebés y primera infancia",
    "id": "ei9bsbu"
-  },
-  {
-   "titulo": "Producción teatral del 4to año Carrera de Actuación (Turno Noche) de la Escuela Provincial de Teatro y Títeres",
-   "inicio": "2026-11-05T20:30:00-03:00",
-   "fin": "2026-11-06",
-   "lugar": "Sala Empleados de Comercio\n CORRIENTES 450, Rosario",
-   "descripcion": "El jueves 5 y viernes 6 de noviembre a las 20:30 hs en la Sala Empleados de Comercio se llevará a cabo la puesta final de Actuación Turno Noche de la Escuela Provincial de Teatro. Dirección: Judith Ganón.\n\nEntrada gratuita\n\nSobre la obra\nUn científico, un aprendiz y tres mujeres. La magia, la brujería y el teatro para desnaturalizar mandatos y relaciones de poder.\n\nFunciones abiertas y gratuitas.\nElenco: Naibí Murúa, Nicolás Molina, Flavia Palavecino, Bianca Di Ponte y Facundo Albanese.\nVestuario: Ramiro Sorrequieta.\nEscenografía: Rodrigo Frías.\nDiseño de iluminación: Diego Quilici.…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/Funciones%20Las%20Cinco%20Venus.png.webp?itok=31ufTAT7",
-   "url": "https://www.rosario.gob.ar/inicio/produccion-teatral-del-4to-ano-carrera-de-actuacion-turno-noche-de-la-escuela-provincial-de-teatro",
-   "entradas": {
-    "gratis": true,
-    "url": "https://www.rosario.gob.ar/inicio/produccion-teatral-del-4to-ano-carrera-de-actuacion-turno-noche-de-la-escuela-provincial-de-teatro",
-    "texto": "Entrada libre y gratuita"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Infantil",
-   "publico": "Infantil y familiar",
-   "id": "emq7gh3"
   },
   {
    "titulo": "42° Encuentro y Fiesta Nacional de Colectividades",
@@ -151,7 +133,7 @@
    "fin": "2026-11-29",
    "lugar": "El Jardín de los Niños\n LUGONES LEOPOLDO 2290, Rosario",
    "descripcion": "Un parque como homenaje a la imaginación y a la creación. Un paseo con estallidos de color, espacios de belleza y juegos que desafían los sentidos. Un recorrido por las grandes preguntas de la humanidad y las vanguardias artísticas del siglo XX. Aventuras, misterios, construcciones y poesía. \n\nJunto a La Granja de la Infancia y La Isla de los Inventos, integra el proyecto Tríptico de la Infancia.\n\nEntrada general: $1.000 y menores de 4 años gratis. El 9/11 el jardín permanece cerrado. \n\nPara visitas de grupos educativos, reservar turno llamando de lunes a viernes de 9 a 15 hs. al teléfono…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/a-jardin.jpg.webp?itok=RodYj4XO",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/a-jardin.jpg.webp?itok=x3tueoej",
    "url": "https://www.rosario.gob.ar/inicio/primavera-en-el-jardin-de-los-ninos",
    "entradas": {
     "gratis": false,
@@ -182,24 +164,6 @@
    "id": "ex1fit2"
   },
   {
-   "titulo": "Taller: ¿Qué nos dice la arcilla?",
-   "inicio": "2026-11-06",
-   "fin": "2026-11-20",
-   "lugar": "Casa de Cultura Barrio Alvear\n LETT FRANCISCO N 4253, Rosario",
-   "descripcion": "Un espacio para experimentar y trabajar la cerámica y a partir de otro ritmo, observar, esperar y disfrutar de los procesos. A cargo de Luciana Prado. Para infancias de 7 a 12 años.\n\nViernes de 14 a 16h (8 encuentros) Inicio: 2 de octubre | Con inscripción previa en este formulario.",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/arcilla.jpg.webp?itok=ygUQYKVP",
-   "url": "https://www.rosario.gob.ar/inicio/taller-que-nos-dice-la-arcilla",
-   "entradas": {
-    "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/taller-que-nos-dice-la-arcilla",
-    "texto": "Consultar en la página oficial de la agenda municipal"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Infantil",
-   "publico": "Todo público",
-   "id": "esfa4ag"
-  },
-  {
    "titulo": "Hystérēsis. Anatomía del roce",
    "inicio": "2026-11-06",
    "fin": "2026-12-22",
@@ -216,24 +180,6 @@
    "genero": "Música",
    "publico": "Todo público",
    "id": "e1c2hq1i"
-  },
-  {
-   "titulo": "Teatro en el Espacio Cultural Expresiones: Azul. La quietud y la muerte se parecen tanto",
-   "inicio": "2026-11-06",
-   "fin": "2026-11-13",
-   "lugar": "Rosario",
-   "descripcion": "Los viernes 6 y 13 de noviembre, a partir de las 21 h en el Espacio Cultural Expresiones (Entre Ríos 1437) se presenta Azul: la quietud y la muerte se parecen tanto. Una obra teatral de dramaturgia propia, como todos los proyectos de la compañía La Llave, que visibiliza y denuncia el abuso narcisista.\n\nAZUL surge de la necesidad de explorar estas lógicas y sus consecuencias. Un fenómeno cada vez más presente en el debate social pero todavía escasamente abordado desde el lenguaje teatral. A través de esta historia buscamos contar la nuestra e invitar a reflexionar sobre dinámicas tóxicas y…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/obra_teatro_azul.jpg.webp?itok=cvL53rtq",
-   "url": "https://www.rosario.gob.ar/inicio/teatro-en-el-espacio-cultural-expresiones-azul.-la-quietud-y-la-muerte-se-parecen-tanto",
-   "entradas": {
-    "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/teatro-en-el-espacio-cultural-expresiones-azul.-la-quietud-y-la-muerte-se-parecen-tanto",
-    "texto": "Consultar en la página oficial de la agenda municipal"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Teatro",
-   "publico": "Todo público",
-   "id": "e1cpcsv1"
   },
   {
    "titulo": "Muestra: Efervescencia cromática. Anomalía de un universo en expansión",
@@ -254,6 +200,24 @@
    "id": "e1c48fzn"
   },
   {
+   "titulo": "Muestra Huellas de lo humano",
+   "inicio": "2026-11-06",
+   "fin": "2026-12-14",
+   "lugar": "Biblioteca Pública Municipal José Manuel Estrada\n BAYO SERVANDO 799, Rosario",
+   "descripcion": "Muestra de Yana Borgia, serie de fotografías realizadas en la provincia de Santa Fe a partir de recorridos de exploración urbana (urbex), extendidos también al ámbito rural, en busca de vestigios, espacios olvidados y rastros de la presencia humana y del paso del tiempo. Esta búsqueda propone una suerte de \"arqueología fotográfica\": descubrir, registrar e interpretar visualmente aquello que permanece, aun cuando su origen o su función hayan quedado en el olvido. \n\nLa propuesta también expresa afinidad estética con el Ruinenlust, concepto alemán que expresa la fascinación por las ruinas y los…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/Huellas%20%20gestor.png.webp?itok=ZebleBIX",
+   "url": "https://www.rosario.gob.ar/inicio/muestra-huellas-de-lo-humano",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/muestra-huellas-de-lo-humano",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "etu3las"
+  },
+  {
    "titulo": "Muestra/talleres Colegas",
    "inicio": "2026-11-06",
    "fin": "2026-12-18",
@@ -272,48 +236,12 @@
    "id": "e1gecfhb"
   },
   {
-   "titulo": "Muestra Huellas de lo humano",
-   "inicio": "2026-11-06",
-   "fin": "2026-12-14",
-   "lugar": "Biblioteca Pública Municipal José Manuel Estrada\n BAYO SERVANDO 799, Rosario",
-   "descripcion": "Muestra de Yana Borgia, serie de fotografías realizadas en la provincia de Santa Fe a partir de recorridos de exploración urbana (urbex), extendidos también al ámbito rural, en busca de vestigios, espacios olvidados y rastros de la presencia humana y del paso del tiempo. Esta búsqueda propone una suerte de \"arqueología fotográfica\": descubrir, registrar e interpretar visualmente aquello que permanece, aun cuando su origen o su función hayan quedado en el olvido. \n\nLa propuesta también expresa afinidad estética con el Ruinenlust, concepto alemán que expresa la fascinación por las ruinas y los…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/Huellas%20%20gestor.png.webp?itok=kSyvBFYR",
-   "url": "https://www.rosario.gob.ar/inicio/muestra-huellas-de-lo-humano",
-   "entradas": {
-    "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/muestra-huellas-de-lo-humano",
-    "texto": "Consultar en la página oficial de la agenda municipal"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Artes visuales",
-   "publico": "Todo público",
-   "id": "etu3las"
-  },
-  {
-   "titulo": "IX Encuentro de la Red Argentina de Ciudades Educadoras",
-   "inicio": "2026-11-06T08:30:00-03:00",
-   "fin": "",
-   "lugar": "Rosario",
-   "descripcion": "Cuidar, Incluir y Acompañar a lo largo de la vida\nPresentación de más de 30 experiencias de Ciudades Educadoras Argentinas. \n\nPresencia de especialistas destacados:\n\nGraciela Frigerio: repensar lo irrenunciable ante los desafíos del presente.\nMaría Emilia López: cuidado, lectura, literatura e interacciones humanas.\nLucas Raspall: experiencias adversas tempranas y trayectorias de vida.\nSofía Marzioni: políticas públicas para las personas mayores.\n\n5 y 6 de noviembre - Salón embarcaderos - Terminal La Fluvial - Los Inmigrantes 410\n\nConvocan: Red Argentina de Ciudades Educadoras (Delegación…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/IX%20Encuentro%20de%20Ciudades%20Educadoras%20Argentinas.png.webp?itok=3Kt4rLLC",
-   "url": "https://www.rosario.gob.ar/inicio/ix-encuentro-de-la-red-argentina-de-ciudades-educadoras",
-   "entradas": {
-    "gratis": true,
-    "url": "https://www.rosario.gob.ar/inicio/ix-encuentro-de-la-red-argentina-de-ciudades-educadoras",
-    "texto": "Entrada libre y gratuita"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Literatura",
-   "publico": "Jóvenes",
-   "id": "ex6goib"
-  },
-  {
    "titulo": "\"Balcarce 681\": muestra de fotografías inéditas tomadas a Fito Páez en su casa de Rosario",
    "inicio": "2026-11-06T13:30:00-03:00",
    "fin": "2027-02-05",
    "lugar": "Biblioteca Argentina Dr. Juan Álvarez\n ROCA PTE. JULIO ARGENTINO 731, Rosario",
    "descripcion": "En el hall de la planta baja de la Biblioteca Argentina Dr. Juan Álvarez se encuentra exhibida la muestra “Balcarce 681” para vivir la experiencia de recorrer la historia de una serie de fotografías inéditas tomadas al músico Rodolfo (Fito) Páez por el fotógrafo Alejandro Lamas y publicadas en el n.° 10 de la revista “Risario” en marzo de 1983. Las fotos fueron captadas en su casa, ubicada en esa dirección en Rosario. Con entrada libre y gratuita.\n\nLa muestra se compone de fotografías en blanco y negro de película de rollo captadas por el fotógrafo Alejandro Lamas. En su mayoría fueron…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/Balcarce-681.-Muestra-de-fotograf%C3%ADas-in%C3%A9ditas-tomadas-a-Fito-P%C3%A1ez-en-su-casa-de-Rosario.-En-la-Biblioteca-Argentina-Dr.-Juan-%C3%81lvarez.png.webp?itok=r1aK6Lvc",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/Balcarce-681.-Muestra-de-fotograf%C3%ADas-in%C3%A9ditas-tomadas-a-Fito-P%C3%A1ez-en-su-casa-de-Rosario.-En-la-Biblioteca-Argentina-Dr.-Juan-%C3%81lvarez.png.webp?itok=A--OleRH",
    "url": "https://www.rosario.gob.ar/inicio/balcarce-681-muestra-de-fotografias-ineditas-tomadas-fito-paez-en-su-casa-de-rosario",
    "entradas": {
     "gratis": true,
@@ -326,130 +254,58 @@
    "id": "e1h90klk"
   },
   {
-   "titulo": "Visita guiada por Pasaje de la Nación",
-   "inicio": "2026-11-06T17:00:00-03:00",
-   "fin": "",
-   "lugar": "Rosario",
-   "descripcion": "En el marco de Semana del Arte, el viernes 6 de noviembre, de 17 a 19 h se podrá disfrutar de una visita guiada por Pasaje de la Nación. Un recorrido guiado por esta galería que reúne proyectos de diseño local de Rosario. La visita propone conocer las iniciativas que conviven en el pasaje y descubrir sus historias, sus procesos y los vínculos que las unen. En diálogo con el eje Nombres y lugares, la propuesta invita a reflexionar sobre el nombre del pasaje y su relación con los proyectos de industria nacional que forman parte de este espacio.\n\nGalería Pasaje de la Nación | San Martín 834",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/galer%C3%ADa_paseo_rosario.jpg.webp?itok=8nOWliUS",
-   "url": "https://www.rosario.gob.ar/inicio/visita-guiada-por-pasaje-de-la-nacion",
-   "entradas": {
-    "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/visita-guiada-por-pasaje-de-la-nacion",
-    "texto": "Consultar en la página oficial de la agenda municipal"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Artes visuales",
-   "publico": "Todo público",
-   "id": "ej7choh"
-  },
-  {
-   "titulo": "Inauguración de la muestra “El paisaje en filigrana de papel”",
-   "inicio": "2026-11-06T18:00:00-03:00",
-   "fin": "",
-   "lugar": "Centro Municipal de Distrito Centro \"Antonio Berni\"\n WHEELWRIGHT GUILLERMO 1486, Rosario",
-   "descripcion": "El Distrito Centro Antonio Berni invita el viernes 6 de noviembre a la inauguración de \"El paisaje en filigrana de papel”, una muestra colectiva que reúne las producciones de las alumnas del taller de filigrana de la Academia Filigrana Rosario, a cargo de la artista y docente Patricia Di Vincenzo.\n\nLa exposición invita a descubrir las posibilidades expresivas de esta técnica, que transforma el papel en paisajes y composiciones capaces de evocar aquello que nos identifica y nos representa. Las obras de las alumnas reúnen diversas miradas, sensibilidades y búsquedas creativas, y ponen en valor…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/imagen_900x600.jpg.webp?itok=HVWxaSya",
-   "url": "https://www.rosario.gob.ar/inicio/inauguracion-de-la-muestra-el-paisaje-en-filigrana-de-papel",
+   "titulo": "Espacio Pokémon",
+   "inicio": "2026-11-07",
+   "fin": "2026-12-19",
+   "lugar": "Cultural Fontanarrosa\n SAN MARTIN GRAL. JOSE 1080, Rosario",
+   "descripcion": "Espacio Pokémon es una nueva propuesta impulsada por el Cultural Fontanarrosa junto a Comunidad Pokémon Rosario. Se trata de un espacio de encuentro periódico destinado al intercambio de Cartas Coleccionables Pokémon (TCG) que tiene lugar todos los sábados en la Planta Baja del Fontanarrosa.\n\nLa iniciativa está enfocada en la creación de un punto de encuentro entre la comunidad de fans y el público general, donde pueden intercambiar cartas coleccionables, compartir juegos y aprender técnicas específicas en relación al universo Pokémon, pensada para todas las edades, con entrada libre y…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-04/Foto%20Pok%C3%A9mon.jpg.webp?itok=OofOZJFZ",
+   "url": "https://www.rosario.gob.ar/inicio/espacio-pokemon",
    "entradas": {
     "gratis": true,
-    "url": "https://www.rosario.gob.ar/inicio/inauguracion-de-la-muestra-el-paisaje-en-filigrana-de-papel",
+    "url": "https://www.rosario.gob.ar/inicio/espacio-pokemon",
     "texto": "Entrada libre y gratuita"
    },
    "fuente": "Agenda Municipal de Rosario",
-   "genero": "Artes visuales",
-   "publico": "Todo público",
-   "id": "ek1pa9v"
+   "genero": "Infantil",
+   "publico": "Familiar",
+   "id": "eq02bjj"
   },
   {
-   "titulo": "Tertulias Tangueras",
-   "inicio": "2026-11-06T18:30:00-03:00",
-   "fin": "2026-11-27",
-   "lugar": "Centro Cultural La Casa del Tango\n ILLIA PTE. ARTURO U. 1750, Rosario",
-   "descripcion": "En agosto se reanudan las Tertulias Tangueras con la conducción de Gerardo Quilici. Los encuentros para conversar y compartir opiniones y conocimientos sobre la poética, la filosofía, la música y el arte tanguero se realizan los viernes a las 17 h, con entrada libre y gratuita.\n\nSobre Gerardo QuiliciLocutor, periodista, coleccionista, historiador y docente de tango. Miembro de la Academia del Tango de Rosario, de la Asociación Rosarina Carlos Gardel y de la Academia Nacional del Tango. La esquina del Centro Cultural La Casa del Tango lleva su nombre. En 2008, el Concejo Municipal de Rosario…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2024-02/Tertulia%20tanguera.jpeg.webp?itok=V1Ga3yXN",
-   "url": "https://www.rosario.gob.ar/inicio/tertulias-tangueras-1",
-   "entradas": {
-    "gratis": true,
-    "url": "https://www.rosario.gob.ar/inicio/tertulias-tangueras-1",
-    "texto": "Entrada libre y gratuita"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Música",
-   "publico": "Todo público",
-   "id": "e18l8wuk"
-  },
-  {
-   "titulo": "Concierto: \"Jóvenes solistas\"",
-   "inicio": "2026-11-06T18:30:00-03:00",
-   "fin": "",
-   "lugar": "Biblioteca Argentina Dr. Juan Álvarez\n ROCA PTE. JULIO ARGENTINO 731, Rosario",
-   "descripcion": "Una función que celebra el talento, la dedicación y el crecimiento musical de alumnas y alumnos de distintas escuelas y orquestas de Rosario, quienes compartirán escenario con la Orquesta de Cámara Municipal de Rosario. En la Sala de lectura Alfredo Lovell, ubicada en la planta baja de la Biblioteca Argentina Dr. Juan Álvarez.\n\nDirector invitado: Luciano Falcón.\n\nINGRESOS Y ACCESIBILIDAD\nPresidente Roca 731. Entrada con elevador.\nPasaje Doctor Álvarez 1550. Entrada con rampa.\nSanta Fe 1553. El ingreso es por escalera.\n\nPara consultas y más información acerca de todas sus actividades y…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/J%C3%B3venes-solistas-en-la-Biblioteca-Argentina-Dr.-Juan-%C3%81lvarez.png.webp?itok=8w44xFlY",
-   "url": "https://www.rosario.gob.ar/inicio/concierto-jovenes-solistas",
+   "titulo": "Funciones de Ciertos Pecados en Sala La Escalera",
+   "inicio": "2026-11-07",
+   "fin": "2026-11-28",
+   "lugar": "Centro Cultural La Escalera\n NUEVE DE JULIO 324, Rosario",
+   "descripcion": "Los sábados de noviembre, del 7 al 28, siempre en el horario de las 21 hs se presenta la obra Ciertos Pecados en Sala La Escalera.\n\nEntrada: $22.000. Reservas al 3415098033\n\nCiertos pecados es una comedia dramática, irónica y absurda, con matices nostálgicos. Es la historia entre una diva del cine nacional olvidada y devenida a menos y un periodista que viene a rescatarla para devolverle todo su esplendor.\n\nObra teatral, apta para mayores de 13 años. Actúan Emilia Sánchez y Christian Valci. Puesta en escena: Juan Carlos Capello. Dirección: Marcela Espíndola Galante.",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/Obra%20en%20la%20Escalera_0.png.webp?itok=AV9Fd_ed",
+   "url": "https://www.rosario.gob.ar/inicio/funciones-de-ciertos-pecados-en-sala-la-escalera",
    "entradas": {
     "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/concierto-jovenes-solistas",
-    "texto": "Consultar en la página oficial de la agenda municipal"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Música",
-   "publico": "Jóvenes",
-   "id": "e112vxh5"
-  },
-  {
-   "titulo": "Función CIT: Los Disfrazados",
-   "inicio": "2026-11-06T19:00:00-03:00",
-   "fin": "",
-   "lugar": "Centro Municipal de Distrito Noroeste \"Olga y Leticia Cossettini\"\n PROVINCIAS UNIDAS 150 BIS, Rosario",
-   "descripcion": "Los Disfrazados, una adaptación libre de Leonardo Matías Pérez basada en la pieza original de Carlos Mauricio Pacheco, a cargo del Circuito Interbarrial de Teatro.\n\nLos Disfrazados está ambientada en el patio de un conventillo a principios de siglo, durante la época de carnaval, un espacio donde la murga ensaya canciones de protesta a favor de la cultura y la educación. En este entorno, los personajes interactúan ocultando sus verdaderas penas y realidades, detrás de metáforas, apariencias y «caretas» sociales.\n\nEl núcleo dramático principal gira en torno a Don Pietro, un hombre mayor,…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/0a79994a-a7e3-4dbe-b5a0-4a09fbf4a753_0.jpg.webp?itok=pcM-SqZZ",
-   "url": "https://www.rosario.gob.ar/inicio/funcion-cit-los-disfrazados",
-   "entradas": {
-    "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/funcion-cit-los-disfrazados",
+    "url": "https://www.rosario.gob.ar/inicio/funciones-de-ciertos-pecados-en-sala-la-escalera",
     "texto": "Consultar en la página oficial de la agenda municipal"
    },
    "fuente": "Agenda Municipal de Rosario",
    "genero": "Teatro",
    "publico": "Todo público",
-   "id": "eq1ftpn"
+   "id": "ecsio9o"
   },
   {
-   "titulo": "Riviera Live Music presenta a Dúo Borrell - Pellegrinet",
-   "inicio": "2026-11-06T20:30:00-03:00",
-   "fin": "",
+   "titulo": "Funciones de La Moribunda en el Túnel de las Artes",
+   "inicio": "2026-11-07",
+   "fin": "2026-11-14",
    "lugar": "Rosario",
-   "descripcion": "El viernes 6 de noviembre, a partir de las 20:30 h en el Hotel Riviera (San Lorenzo 1460) se realiza una nueva edición de Riviera Live Music. En esta oportunidad se presenta el Dúo Borrell - Pellegrinet. El ciclo de música en vivo continúa con una propuesta acústica que recorre distintos géneros y combina música, gastronomía y encuentro.\n\nUna propuesta que nace del amor de sus integrantes por la música de Brasil y recorre obras de algunos de sus grandes compositores. Mercedes Borrell, en voz, y Dani Pellegrinet, en guitarra y voz, transitan un repertorio que reúne sambas, bossas y canciones…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/riviera_music_brasil.jpg.webp?itok=Pij7Ay5T",
-   "url": "https://www.rosario.gob.ar/inicio/riviera-live-music-presenta-duo-borrell-pellegrinet",
+   "descripcion": "Los días sábado 7 y 14 de noviembre, a las 21 hs se presenta la obra La Moribunda (comedia de Alejandro Urdapilleta) en el Túnel de Las Artes.\n\nEntradas anticipadas con descuento acá. A las 20:30 se abren las puertas; a las 21 hs, puntualmente, se dará inicio a la función.\n\nSobre la obra\nDos hermanas esperan y cuidan a la mayor que agoniza al otro lado de la casa. Pero esta vez la historia se esconde debajo de las baldosas, abajo de la ciudad. El mundo queda arriba y el teatro ahí debajo.\nUn túnel, la oscuridad y la cercanía de todo. Una tragedia hilarante. Una comedia terrible. Allí debajo,…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/La%20Moribunda.png.webp?itok=6N_I-B7K",
+   "url": "https://www.rosario.gob.ar/inicio/funciones-de-la-moribunda-en-el-tunel-de-las-artes",
    "entradas": {
     "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/riviera-live-music-presenta-duo-borrell-pellegrinet",
+    "url": "https://www.rosario.gob.ar/inicio/funciones-de-la-moribunda-en-el-tunel-de-las-artes",
     "texto": "Consultar en la página oficial de la agenda municipal"
    },
    "fuente": "Agenda Municipal de Rosario",
-   "genero": "Música",
+   "genero": "Teatro",
    "publico": "Todo público",
-   "id": "ev6y35l"
-  },
-  {
-   "titulo": "Ars Nova: 50° aniversario",
-   "inicio": "2026-11-06T20:30:00-03:00",
-   "fin": "",
-   "lugar": "Teatro Municipal La Comedia\n MITRE GENERAL BARTOLOME 958, Rosario",
-   "descripcion": "En el marco de sus Bodas de oro, el conjunto Ars Nova hace un repaso por las obras y los recuerdos que marcaron su repertorio y su historia, acompañados por miembros fundadores y ex integrantes, y siempre bajo la dirección de Miguel Ángel Solagna.\n\nIntegrantes\n\nSopranos: Guillermina Amelong, Ema Capiglioni, Melisa Catania, Verónica Estévez, Alejandra Facchiano, Silvia Gherbaz, Virginia Hernández, Flavia Pérez\n\nContraltos: Silvina Cornejo, Noemi Daniele, Elba Espejo, Rocío Fernández, María Fernanda Franco, María Laura Marconi, Verónica Miró, Romina Negri, Liliana Rodríguez\n\nTenores: Hugo…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/gestor_3.jpg.webp?itok=JL6ydmdM",
-   "url": "https://www.rosario.gob.ar/inicio/ars-nova-50deg-aniversario",
-   "entradas": {
-    "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/ars-nova-50deg-aniversario",
-    "texto": "Consultar en la página oficial de la agenda municipal"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Música",
-   "publico": "Infantil y familiar",
-   "id": "e1ew3bj7"
+   "id": "egtff51"
   },
   {
    "titulo": "La Ruta de los Azulejos. Historias, artes y oficios en la ciudad",
@@ -457,7 +313,7 @@
    "fin": "2027-04-04",
    "lugar": "Museo de la Ciudad Wladimir Mikielievich\n OROÑO NICASIO 2361, Rosario",
    "descripcion": "La Ruta de los Azulejos. Historia, artes y oficios de la ciudad es la nueva producción del Museo de la Ciudad, que invita a recorrer la historia de Rosario a través de sus azulejos, entendidos no solo como elementos decorativos sino como huellas de identidad urbana. Nacidos de la arcilla y el fuego los azulejos han sido históricamente mucho más que un recurso constructivo: son la unidad mínima en donde converge el arte, la técnica y la vida cotidiana. Como testigos silenciosos, estas piezas de cerámica vidriada desperdigadas en la trama de la ciudad, custodian el paso del tiempo y nos…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-05/mc_rutaazulejos.png.webp?itok=3YrDwQXy",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-05/mc_rutaazulejos.png.webp?itok=0YCyIyNB",
    "url": "https://www.rosario.gob.ar/inicio/la-ruta-de-los-azulejos.-historias-artes-y-oficios-en-la-ciudad",
    "entradas": {
     "gratis": false,
@@ -468,6 +324,60 @@
    "genero": "Artes visuales",
    "publico": "Todo público",
    "id": "evsj3z7"
+  },
+  {
+   "titulo": "Ponele Ficha",
+   "inicio": "2026-11-07T10:00:00-03:00",
+   "fin": "",
+   "lugar": "Biblioteca Pública Municipal José Manuel Estrada\n BAYO SERVANDO 799, Rosario",
+   "descripcion": "Encuentros mensuales de juegos de mesa en la Biblioteca que tiene lugar el primer sábado de cada mes. En noviembre, la Biblioteca Estrada te invita a venir a disfrutar de una mañana llena de juegos. Gratis, destinado a infancias de 7 años en adelante, con cupo de acuerdo a capacidad de sala.",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/Ponele%20Ficha%20Abril%20Gestor%20%20900%20x%20600.png.webp?itok=TCBvQftq",
+   "url": "https://www.rosario.gob.ar/inicio/ponele-ficha-3",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/ponele-ficha-3",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Infantil",
+   "publico": "Todo público",
+   "id": "eb86gye"
+  },
+  {
+   "titulo": "Taller literario \"Palabras Cruzadas\"",
+   "inicio": "2026-11-07T10:30:00-03:00",
+   "fin": "",
+   "lugar": "Biblioteca Argentina Dr. Juan Álvarez\n ROCA PTE. JULIO ARGENTINO 731, Rosario",
+   "descripcion": "El Taller literario: \"Palabras Cruzadas\" forma parte de un ciclo de encuentros en la Casa Imaginada de la Biblioteca Argentina \"Dr. Juan Álvarez\": un lugar lúdico y creativo para que las infancias transformen sus ideas en relatos inolvidables. En esta oportunidad se realiza el quinto y último encuentro, el cierre del ciclo.\n\nCoordinado por: Gabriela Gervasoni.\nDestinado a: infancias. Niñas y niños de entre 7 y 12 años con interés en la escritura creativa.\nCupo: Quince (15) niñas y niños.\nLugar: Casa Imaginada (ingreso por calle Santa Fe 1553).\n\nInscripción: en el siguiente formulario.…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/Taller-literario-Palabras-Cruzadas-en-la-Biblioteca-Argentina-Dr.-Juan-%C3%81lvarez.png.webp?itok=8N-pwsLN",
+   "url": "https://www.rosario.gob.ar/inicio/taller-literario-palabras-cruzadas-2",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/taller-literario-palabras-cruzadas-2",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Infantil",
+   "publico": "Infantil y familiar",
+   "id": "e12h961y"
+  },
+  {
+   "titulo": "Taller sin Orillas",
+   "inicio": "2026-11-07T11:30:00-03:00",
+   "fin": "2026-11-28",
+   "lugar": "Biblioteca Pública Municipal José Manuel Estrada\n BAYO SERVANDO 799, Rosario",
+   "descripcion": "Una introducción a la obra de Juan José Saer. Taller de Literatura para jóvenes y adultos (+16 años). Coordina Marcelo Costa (Texto Sentido). Cuatro encuentros: primeros relatos, la poesía y su uso en la narrativa, Saer y la zona, la presencia del elenco estable de personajes, la novelas de la dictadura y las de la llanura, obra póstuma, entre otros temas. Sábados de 10 a 11.30h. Inicia el 7 de noviembre.\n\nGratis, con cupo e inscripción previa",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/Marcelo%20Octubre%20%20gestor.png.webp?itok=hlf5Ingz",
+   "url": "https://www.rosario.gob.ar/inicio/taller-sin-orillas",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/taller-sin-orillas",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Teatro",
+   "publico": "Adultos (+18)",
+   "id": "e10mcsyc"
   },
   {
    "titulo": "Almácigo. Laboratorio de futuros deseables",
@@ -488,12 +398,246 @@
    "id": "e1j6qtfi"
   },
   {
+   "titulo": "Función CIT: Babilonia",
+   "inicio": "2026-11-07T17:00:00-03:00",
+   "fin": "",
+   "lugar": "Rosario",
+   "descripcion": "Llega una nueva función del Circuito Interbarrial de Teatro, con la actuación de vecinas y vecinos actores del grupo Bohemios del Distrito Sudoeste. \n\nDirección: Claudia Schujman\nAsistencia: María Antonia Herrera\nVestuario y caracterización: Paola Fernández\nCoordinación General: Carla Rodríguez\n\nActúan\nAlbana Acevedo\nAlicia Martin\nCarolina Solis\nDaniel Agüero\nDarío Pavlovich\nEnrique Ruggeri\nFrancisca Espíndola\nJackeline Gómez\nJavier Legretin\nJenifer Romero\nLiliana Córdoba\nMabel Avilés\nMaik Marín\nMarta Zalazar\nMartina Acevedo\nMilagros Villar\nRicardo Villar",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/WhatsApp%20Image%202026-10-29%20at%2011.18.46.jpg.webp?itok=vNvF__HL",
+   "url": "https://www.rosario.gob.ar/inicio/funcion-cit-babilonia",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/funcion-cit-babilonia",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Teatro",
+   "publico": "Todo público",
+   "id": "e1t1hmnt"
+  },
+  {
+   "titulo": "Ciclo de Teatro +65: El Club de la Risa",
+   "inicio": "2026-11-07T18:00:00-03:00",
+   "fin": "",
+   "lugar": "Centro Municipal de Distrito Sur \"Rosa Ziperovich\"\n URIBURU PTE. JOSE EVARIST 637, Rosario",
+   "descripcion": "Con 4 funciones, se presenta el Club de la Risa. Está pensada como una propuesta de humor y música en espacios convencionales y no convencionales, que busca acercar a las personas +65 un momento de encuentro, risa y emoción a través del teatro y la canción.\n\nUn presentador elegante y disparatado guía el show. Gachy Roldán aporta un monólogo sobre situaciones cotidianas y anécdotas de los +65. Laura Ross interpreta canciones que evocan recuerdos, y el Negro Moyano propone un juego interactivo con melodías de época. El cierre reúne a los tres artistas en escena.\n\nEntrada libre y gratuita con…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/club_risas_rosario.jpeg.webp?itok=esn3SfRI",
+   "url": "https://www.rosario.gob.ar/inicio/ciclo-de-teatro-65-el-club-de-la-risa",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/ciclo-de-teatro-65-el-club-de-la-risa",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Música",
+   "publico": "Todo público",
+   "id": "efge2nu"
+  },
+  {
+   "titulo": "Proyección: “Rosarigarcía, el documental”",
+   "inicio": "2026-11-07T18:00:00-03:00",
+   "fin": "",
+   "lugar": "Galpón 11\n ESTEVEZ BOERO GUILLERMO 980, Rosario",
+   "descripcion": "En el marco de la muestra RosariGarcía, se proyectará “Rosarigarcía, el documental”. Duración: 32 minutos.\n\nDocumental basado en la exposición Rosarigarcía. La presencia e influencia de la música de Charly en nuestra ciudad. Con testimonios de Flor Croci, Joel Tortul, Sandra Corizzo, Nahuel Marquet y más. Producido por el equipo del Galpón 11.",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/WhatsApp%20Image%202026-11-04%20at%2014.51.46%20%281%29.jpeg.webp?itok=0VT_oGTr",
+   "url": "https://www.rosario.gob.ar/inicio/proyeccion-rosarigarcia-el-documental",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/proyeccion-rosarigarcia-el-documental",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Música",
+   "publico": "Todo público",
+   "id": "ecug6tq"
+  },
+  {
+   "titulo": "Función CIT: 300 millones",
+   "inicio": "2026-11-07T19:00:00-03:00",
+   "fin": "",
+   "lugar": "Rosario",
+   "descripcion": "El grupo Locos de la Jaula, del Circuito Interbarrial de Teatro, presenta 300 millones, una adaptación de la obra de Roberto Arlt.\n\nUna historia donde la imaginación desafía a la realidad y los sueños se convierten en el único lugar posible para escapar de lo cotidiano.\n\nEl Circuito Interbarrial de Teatro fue creado en 2004 y está enmarcado en la Ordenanza N.º 10.422. Es una iniciativa de teatro comunitario de la Secretaría de Cultura y Educación de la Municipalidad de Rosario que promueve la formación, la creación y la producción artística de vecinas y vecinos de la ciudad.\n\nA lo largo de…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/IMG-20260727-WA0088_0.jpg.webp?itok=v8CXdNSw",
+   "url": "https://www.rosario.gob.ar/inicio/funcion-cit-300-millones",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/funcion-cit-300-millones",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Teatro",
+   "publico": "Todo público",
+   "id": "e1hthkse"
+  },
+  {
+   "titulo": "Banda 3AM en el Galpón 11",
+   "inicio": "2026-11-07T19:30:00-03:00",
+   "fin": "",
+   "lugar": "Galpón 11\n ESTEVEZ BOERO GUILLERMO 980, Rosario",
+   "descripcion": "La banda 3AM propone un show que combina canciones propias con versiones de referentes del rock nacional e internacional reinterpretadas desde su identidad pop rock e indie. En el marco de RosariGarcía, la presentación incluirá una interpretación del repertorio de Charly como reconocimiento a su enorme influencia en la música argentina y a artistas de distintas generaciones . \n\n3AM es una banda de pop rock formada en Rosario en 2023 por un grupo de amigas unidas por la música. Impulsada por Eliana Robledo (guitarra y coros), la formación se completa con Julieta Vita (batería y coros),…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/DSC_1665.JPG.jpeg.webp?itok=eo8eK8sy",
+   "url": "https://www.rosario.gob.ar/inicio/banda-3am-en-el-galpon-11",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/banda-3am-en-el-galpon-11",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Música",
+   "publico": "Todo público",
+   "id": "ej2see8"
+  },
+  {
+   "titulo": "Música de Acá - Ensamble Municipal de Vientos",
+   "inicio": "2026-11-07T20:00:00-03:00",
+   "fin": "",
+   "lugar": "Teatro Municipal La Comedia\n MITRE GENERAL BARTOLOME 958, Rosario",
+   "descripcion": "El sábado 7 de noviembre a las 20 h, el Ensamble Municipal de Vientos, bajo la dirección del maestro Leonel Lúquez, presentará “Música de acá”, un concierto que reúne grandes canciones del rock, el tango y el folklore nacional, con la participación de destacados cantantes de la escena musical rosarina: José Matteucci (Música para Volar), Neyén Morra, Daniela Lesté, Gonzalo Aloras y Sandra Corizzo. La presentación será en el Teatro La Comedia, con entrada libre y gratuita, por orden de llegada.\n\nA través de nuevos arreglos para ensamble de vientos, el concierto propone redescubrir canciones…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/_MG_4305.jpg.webp?itok=b1x5cwVa",
+   "url": "https://www.rosario.gob.ar/inicio/musica-de-aca-ensamble-municipal-de-vientos",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/musica-de-aca-ensamble-municipal-de-vientos",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Música",
+   "publico": "Todo público",
+   "id": "e18xsoyd"
+  },
+  {
+   "titulo": "Show artístico Música de acá en el Teatro La Comedia",
+   "inicio": "2026-11-07T20:00:00-03:00",
+   "fin": "",
+   "lugar": "Teatro Municipal La Comedia\n MITRE GENERAL BARTOLOME 958, Rosario",
+   "descripcion": "El Ensamble Municipal de Vientos, bajo la dirección del maestro Leonel Lúquez, presenta Música de acá, un concierto que reúne grandes canciones de rock, tango y folklore argentino, con la participación de destacados cantantes de la escena musical rosarina: José Matteucci (Música para Volar), Neyén Morra, Daniela Lesté, Gonzalo Aloras y Sandra Corizzo. La cita está prevista para el sábado 7 de noviembre a las 20 hs en el Teatro La Comedia.\n\nEntrada libre y gratuita, por orden de llegada, hasta agotar la capacidad de la sala.\n\nEl concierto propone redescubrir canciones que forman parte de la…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/gestor_1.jpg.webp?itok=oNkTlgo8",
+   "url": "https://www.rosario.gob.ar/inicio/show-artistico-musica-de-aca-en-el-teatro-la-comedia",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/show-artistico-musica-de-aca-en-el-teatro-la-comedia",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Música",
+   "publico": "Todo público",
+   "id": "e1u24u85"
+  },
+  {
+   "titulo": "Festival Beethoven - Quinteto Municipal de Vientos",
+   "inicio": "2026-11-07T20:00:00-03:00",
+   "fin": "",
+   "lugar": "Centro Cultural Parque de España / AECI\n SARMIENTO DOMINGO FAUSTIN 101, Rosario",
+   "descripcion": "El sábado 7 de noviembre a las 20 h, el Quinteto Municipal de Vientos ofrecerá “Festival Beethoven”, un concierto dedicado íntegramente a la música de cámara de Ludwig van Beethoven, con la participación especial del pianista Javier Más como artista invitado. La presentación tendrá lugar en el Centro Cultural Parque de España (Sarmiento y el río), con entrada libre y gratuita, por orden de llegada, con la particularidad de ser un concierto con Fila 0, Un formato especial de concierto en el que el público se ubica en el mismo escenario, junto a los músicos, para vivir la música de cámara…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/_MG_4641.jpg.webp?itok=ZBWK61p3",
+   "url": "https://www.rosario.gob.ar/inicio/festival-beethoven-quinteto-municipal-de-vientos-0",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/festival-beethoven-quinteto-municipal-de-vientos-0",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Música",
+   "publico": "Todo público",
+   "id": "eahz2vx"
+  },
+  {
+   "titulo": "Jazz Line",
+   "inicio": "2026-11-07T21:00:00-03:00",
+   "fin": "",
+   "lugar": "Alianza Francesa de Rosario\n SAN LUIS 846, Rosario",
+   "descripcion": "El sábado 7 de noviembre, a partir de las 21 h en Alianza Francesa (San Luis 846) se presenta Jazz Line. Es una obra de danza que recorre la evolución histórica del género a través de un viaje escénico que amalgama raíces, ritmos y diversidad cultural. \n\nEntradas al 341 3211093.\n\nLa función está planteada desde 3 escenas a modo de 'línea histórica' que desarrolla los distintos momentos del jazz, tanto desde el movimiento como de la música:\n\n1. lo Afro, Spirituals\n\n2. el Blues\n\n3. Latín Jazz\n\nEn su gran mayoría las coreografías de esta obra son grupales, siendo un 'pueblo\".'un colectivo, que…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/jazz_line_rosario.jpeg.webp?itok=drduP_h0",
+   "url": "https://www.rosario.gob.ar/inicio/jazz-line",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/jazz-line",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Música",
+   "publico": "Todo público",
+   "id": "e1w3qzcf"
+  },
+  {
+   "titulo": "Mentiras de amor",
+   "inicio": "2026-11-07T21:00:00-03:00",
+   "fin": "",
+   "lugar": "Rosario",
+   "descripcion": "El sábado 7 de noviembre, a partir de las 21 h en La Vigil (Alem 3078) se presenta Mentiras de amor. Una comedia dramática unipersonal que te hace reír, emocionarte y pensar. Nico Serna propone un viaje desde la infancia hasta los vínculos de hoy, con humor, sensibilidad y una mirada que incomoda lo justo para permitirnos pensar de otra manera.\n\nEntradas a la venta",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/nico_serna_rosario.jpeg.webp?itok=OR4IJMPM",
+   "url": "https://www.rosario.gob.ar/inicio/mentiras-de-amor",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/mentiras-de-amor",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Infantil",
+   "publico": "Todo público",
+   "id": "e1neek47"
+  },
+  {
+   "titulo": "Las Voces, cuando el dolor habla",
+   "inicio": "2026-11-07T21:00:00-03:00",
+   "fin": "2026-11-08",
+   "lugar": "Rosario",
+   "descripcion": "El sábado 7 y domingo 8 de noviembre, a partir de las 21 h en el Espacio Cultural Expresiones (Entre Ríos 1437) se presenta \"Las Voces, cuando el dolor habla\". Las entradas pueden adquirirse por Whatsapp al 341 6226536 (de 10 a 20 h).\n\nSinopsis \nTodos conocemos el dolor y nadie nos enseñó qué hacer con él. ¿Cómo hacer para que la historia siga existiendo pero que el dolor ya no decida quién soy?\n\nSeis historias que narran el dolor.\nSeis voces atravesadas por sus historias.\nSeis maneras de que ese dolor se haga parte.\n\nFicha Técnica/actoral\nActúan: Jesica Blanco - Julián Esteve Broun\n\nLibro:…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/obra_teatro_voces_0.jpg.webp?itok=Gb1hAON3",
+   "url": "https://www.rosario.gob.ar/inicio/las-voces-cuando-el-dolor-habla",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/las-voces-cuando-el-dolor-habla",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Teatro",
+   "publico": "Todo público",
+   "id": "ercilpl"
+  },
+  {
+   "titulo": "Manu Ansaldi presenta La Melodía Eterna",
+   "inicio": "2026-11-07T21:30:00-03:00",
+   "fin": "",
+   "lugar": "Rosario",
+   "descripcion": "El sábado 7 de noviembre, a partir de las 21:30 h, en el Teatro Caras y Caretas (Corrientes 1518) Manu Ansaldi presenta La Melodía Eterna, con producción musical de Colo Bonfatti y Manu Pineda. En esta presentación, el cantante, compositor y actor rosarino presenta por primera vez en escena las canciones de su tercer álbum. Para esta propuesta, la sala abandona su disposición habitual y se transforma en un territorio escénico de varios niveles, donde música en vivo, actuación, danza, objetos, imágenes y canciones conviven a muy poca distancia del público.\n\nEntradas a la venta\n\nA lo largo de…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/manu_ansaldi_rosario.jpeg.webp?itok=RGq1XwZn",
+   "url": "https://www.rosario.gob.ar/inicio/manu-ansaldi-presenta-la-melodia-eterna",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/manu-ansaldi-presenta-la-melodia-eterna",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Música",
+   "publico": "Familiar",
+   "id": "e1ywk68u"
+  },
+  {
+   "titulo": "Fiesta Sabinera en Somos Música",
+   "inicio": "2026-11-07T22:00:00-03:00",
+   "fin": "",
+   "lugar": "Rosario",
+   "descripcion": "El sábado 7 de noviembre a las 22 hs se llevará a cabo la Fiesta Sabinera en el nivel superior de Somos Música.\n\nAnticipadas a la venta a $18.000 en Ticketsforlovers\n\nÚltima Fiesta Sabinera del 2026. Una nueva noche para el reencuentro, la alegría y las canciones más hermosas del mundo.\n\n22Hs: Recepción para cena (solo con reserva al 3416099965)\n\n23 a 5hs: ¡Gran Fiesta Sabinera! Música en vivo, DJs, tragos y sorpresas, de la mano de los amigos del mítico Sabina Bar de Rosario. Anticipadas con descuento.",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/Sabina.png.webp?itok=7k-R4Yez",
+   "url": "https://www.rosario.gob.ar/inicio/fiesta-sabinera-en-somos-musica",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/fiesta-sabinera-en-somos-musica",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Música",
+   "publico": "Todo público",
+   "id": "e110r87l"
+  },
+  {
    "titulo": "Muestra “El paisaje en filigrana de papel”",
    "inicio": "2026-11-09",
    "fin": "2026-11-30",
    "lugar": "Centro Municipal de Distrito Centro \"Antonio Berni\"\n WHEELWRIGHT GUILLERMO 1486, Rosario",
    "descripcion": "El Distrito Centro Antonio Berni invita a recorrer una muestra colectiva que reúne las producciones de las alumnas del taller de filigrana de la Academia Filigrana Rosario, a cargo de la artista y docente Patricia Di Vincenzo.\n\nLa exposición invita a descubrir las posibilidades expresivas de esta técnica, que transforma el papel en paisajes y composiciones capaces de evocar aquello que nos identifica y nos representa. Las obras de las alumnas reúnen diversas miradas, sensibilidades y búsquedas creativas, y ponen en valor el aprendizaje compartido y la experiencia artística colectiva.\n\nLa…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/imagen_900x600_0.jpg.webp?itok=ve9Wg1P_",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/imagen_900x600_0.jpg.webp?itok=8WGHovox",
    "url": "https://www.rosario.gob.ar/inicio/muestra-el-paisaje-en-filigrana-de-papel",
    "entradas": {
     "gratis": true,
@@ -511,7 +655,7 @@
    "fin": "",
    "lugar": "Centro Municipal de Distrito Centro \"Antonio Berni\"\n WHEELWRIGHT GUILLERMO 1486, Rosario",
    "descripcion": "El Centro Municipal de Distrito Centro “Antonio Berni” invita a la inauguración de la muestra colectiva “Insieme: El arte que nos une con Italia”, que tendrá lugar el viernes 13 de noviembre, a las 18 h, en el hall del Distrito.\n\nEn el marco de la 42.ª edición del Encuentro y Fiesta Nacional de Colectividades, la exposición es impulsada por FE.DI.L.C.IT. (Federación para la Difusión de la Lengua y Cultura Italianas de la Circunscripción Consular de Italia de Rosario), una entidad que nuclea y representa a asociaciones dedicadas a promover la lengua y la cultura italiana. A través del trabajo…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/insieme_900x600.jpg.webp?itok=P1d9352j",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/insieme_900x600.jpg.webp?itok=_tgwh3bg",
    "url": "https://www.rosario.gob.ar/inicio/inauguracion-de-la-muestra-colectiva-insieme-el-arte-que-nos-une-con-italia",
    "entradas": {
     "gratis": false,
@@ -529,7 +673,7 @@
    "fin": "",
    "lugar": "Centro Cultural La Casa del Tango\n ILLIA PTE. ARTURO U. 1750, Rosario",
    "descripcion": "La Orquesta de Carlos Quilici celebra sus 16 años en el Centro Cultural La Casa del Tango. El concierto contará con la participación de los cantantes Leonel Capitano y Ariel Prat, invitado especial desde Buenos Aries. \n\nLa Orquesta de Carlos Quilici es una orquesta típica formada en 2010 en la Escuela de Música de la Universidad Nacional de Rosario. Carlos Quilici es bandoneonista, compositor, arreglador y docente de vasta trayectoria nacional e internacional. Con notable fuerza rítmica y respeto por las líneas melódicas originales, esta agrupación interpreta clásicos del repertorio tanguero…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/WhatsApp%20Image%202026-11-03%20at%2011.15.01%20AM%20%281%29.jpeg.webp?itok=WZPkrBfy",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/WhatsApp%20Image%202026-11-03%20at%2011.15.01%20AM%20%281%29.jpeg.webp?itok=cOTcW6HW",
    "url": "https://www.rosario.gob.ar/inicio/concierto-de-la-orquesta-de-carlos-quilici",
    "entradas": {
     "gratis": false,
@@ -547,7 +691,7 @@
    "fin": "",
    "lugar": "Biblioteca Argentina Dr. Juan Álvarez\n ROCA PTE. JULIO ARGENTINO 731, Rosario",
    "descripcion": "El último encuentro de cierre de Bebés en Bibliotecas se realiza el viernes 27 de noviembre de 15 a 16 h en Casa Imaginada, en la Biblioteca Argentina Dr. Juan Álvarez. En el marco del Programa MIL 65, la actividad invita a bebés de hasta 3 años junto con una persona acompañante para disfrutar de una ronda de cuentos, canciones y juegos con palabras. A través de dispositivos, exploramos los vínculos amorosos que ofrece el libro.\n\nGratis y sin inscripción. Para más información escribir a la dirección de correo electrónico aromero3@rosario.gov.ar \n\nOrganiza Proyecto Bebés en bibliotecas.…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/Beb%C3%A9s-en-Bibliotecas-en-la-Casa-Imaginada-de-la-Biblioteca-Argentina-Dr.-Juan-%C3%81lvarez.png.webp?itok=2sTn3YDN",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/Beb%C3%A9s-en-Bibliotecas-en-la-Casa-Imaginada-de-la-Biblioteca-Argentina-Dr.-Juan-%C3%81lvarez.png.webp?itok=-ZyTVz8Z",
    "url": "https://www.rosario.gob.ar/inicio/bebes-en-bibliotecas",
    "entradas": {
     "gratis": false,
