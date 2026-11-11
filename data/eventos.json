@@ -1,23 +1,23 @@
 {
- "actualizado": "2026-11-10T16:39:27.911Z",
+ "actualizado": "2026-11-11T16:44:13.178Z",
  "eventos": [
   {
-   "titulo": "50 veinticuatros. Sentidos y recorridos de las marchas por memoria, verdad y justicia",
+   "titulo": "La Granja de la Infancia",
    "inicio": "2026-11-05",
-   "fin": "2027-01-31",
-   "lugar": "Museo de la Memoria\n CORDOBA 2019, Rosario",
-   "descripcion": "En la sala de muestras transitorias Juan Emilio Basso Feresin del Museo de la Memoria, se inaugura 50 veinticuatros, con curaduría de Leticia Rigat y asesoría historiográfica de Gabriela Águila y Pablo Suárez. \n\nOrganizada en tres tiempos —dictadura, primeros años de democracia y nuevo siglo—, la exposición propone un recorrido multisensorial por las transformaciones del 24 de marzo en el imaginario colectivo, desde las primeras denuncias hasta la ampliación contemporánea de las agendas de memoria, verdad y justicia. \n\nUna retrospectiva de los 24 de marzo en Rosario.\n\nLa muestra podrá…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-03/50%2024%20veinticuatros.png.webp?itok=MlhFYMf7",
-   "url": "https://www.rosario.gob.ar/inicio/50-veinticuatros.-sentidos-y-recorridos-de-las-marchas-por-memoria-verdad-y-justicia",
+   "fin": "2026-11-28",
+   "lugar": "La Granja de la Infancia\n PERON PRESIDENTE JUAN DOM 8000, Rosario",
+   "descripcion": "El cuerpo en juego entre cultura y naturaleza. Un territorio de encuentro y convivencia para cultivar una poética de la calidad de vida.\n\nUn paseo en la ciudad donde llenarse de verde, correr, saltar y trepar, descubrir oficios y experiencias, pensar con las manos e imaginar lo que vendrá.\n\nUna Granja donde todo palpita, produce vida, crece y se transforma. 5 hectáreas de paisaje con lomas, senderos, cascadas, puentes, animales, casitas en los árboles. Vivero, huerta orgánica y jardín de mariposas para regar, sembrar, descubrir lombrices, ser parte de la naturaleza y sus sucesos.\n\nUn bosque…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2025-02/granja-horarios.jpg.webp?itok=IPr1E06c",
+   "url": "https://www.rosario.gob.ar/inicio/la-granja-de-la-infancia-1",
    "entradas": {
     "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/50-veinticuatros.-sentidos-y-recorridos-de-las-marchas-por-memoria-verdad-y-justicia",
+    "url": "https://www.rosario.gob.ar/inicio/la-granja-de-la-infancia-1",
     "texto": "Consultar en la página oficial de la agenda municipal"
    },
    "fuente": "Agenda Municipal de Rosario",
-   "genero": "Artes visuales",
-   "publico": "Todo público",
-   "id": "emlge4b"
+   "genero": "Infantil",
+   "publico": "Infantil y familiar",
+   "id": "e142hg0t"
   },
   {
    "titulo": "Nivel de Río. Instalación de Maxi Murad",
@@ -36,6 +36,24 @@
    "genero": "Teatro",
    "publico": "Todo público",
    "id": "eem19n1"
+  },
+  {
+   "titulo": "50 veinticuatros. Sentidos y recorridos de las marchas por memoria, verdad y justicia",
+   "inicio": "2026-11-05",
+   "fin": "2027-01-31",
+   "lugar": "Museo de la Memoria\n CORDOBA 2019, Rosario",
+   "descripcion": "En la sala de muestras transitorias Juan Emilio Basso Feresin del Museo de la Memoria, se inaugura 50 veinticuatros, con curaduría de Leticia Rigat y asesoría historiográfica de Gabriela Águila y Pablo Suárez. \n\nOrganizada en tres tiempos —dictadura, primeros años de democracia y nuevo siglo—, la exposición propone un recorrido multisensorial por las transformaciones del 24 de marzo en el imaginario colectivo, desde las primeras denuncias hasta la ampliación contemporánea de las agendas de memoria, verdad y justicia. \n\nUna retrospectiva de los 24 de marzo en Rosario.\n\nLa muestra podrá…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-03/50%2024%20veinticuatros.png.webp?itok=hwmF0cI3",
+   "url": "https://www.rosario.gob.ar/inicio/50-veinticuatros.-sentidos-y-recorridos-de-las-marchas-por-memoria-verdad-y-justicia",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/50-veinticuatros.-sentidos-y-recorridos-de-las-marchas-por-memoria-verdad-y-justicia",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "emlge4b"
   },
   {
    "titulo": "Muestra: Efervescencia cromática. Anomalía de un universo en expansión",
@@ -110,48 +128,12 @@
    "id": "e10mcsyc"
   },
   {
-   "titulo": "Muestra \"Señor D: Cerámicas del Origen. Relecturas Contemporáneas del Noroeste Argentino\"",
-   "inicio": "2026-11-09",
-   "fin": "2026-11-19",
-   "lugar": "Secretaría de Cultura y Educación\n DEL VALLE ARISTOBULO 2734, Rosario",
-   "descripcion": "La Secretaría de Cultura y Educación invita a recorrer la muestra colectiva “Señor D: Cerámicas del Origen. Relecturas Contemporáneas del Noroeste Argentino”, que reúne las producciones de estudiantes del Taller de Alfarería Ancestral de la Facultad de Humanidades y Artes de la Universidad Nacional de Rosario (UNR). La propuesta fue declarada de Interés Municipal por el Concejo Municipal de Rosario y de Interés Provincial por la Cámara de Senadores de la Provincia de Santa Fe.\n\nA través de la cerámica y el grabado, las obras recuperan el legado de las culturas precolombinas del Noroeste…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/se%C3%B1or%20d%20secretaria.png.webp?itok=IIyWubQu",
-   "url": "https://www.rosario.gob.ar/inicio/muestra-senor-d-ceramicas-del-origen.-relecturas-contemporaneas-del-noroeste-argentino-0",
-   "entradas": {
-    "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/muestra-senor-d-ceramicas-del-origen.-relecturas-contemporaneas-del-noroeste-argentino-0",
-    "texto": "Consultar en la página oficial de la agenda municipal"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Artes visuales",
-   "publico": "Todo público",
-   "id": "e4radzl"
-  },
-  {
-   "titulo": "Muestra “El paisaje en filigrana de papel”",
-   "inicio": "2026-11-09",
-   "fin": "2026-11-30",
-   "lugar": "Centro Municipal de Distrito Centro \"Antonio Berni\"\n WHEELWRIGHT GUILLERMO 1486, Rosario",
-   "descripcion": "El Distrito Centro Antonio Berni invita a recorrer una muestra colectiva que reúne las producciones de las alumnas del taller de filigrana de la Academia Filigrana Rosario, a cargo de la artista y docente Patricia Di Vincenzo.\n\nLa exposición invita a descubrir las posibilidades expresivas de esta técnica, que transforma el papel en paisajes y composiciones capaces de evocar aquello que nos identifica y nos representa. Las obras de las alumnas reúnen diversas miradas, sensibilidades y búsquedas creativas, y ponen en valor el aprendizaje compartido y la experiencia artística colectiva.\n\nLa…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/imagen_900x600_0.jpg.webp?itok=8WGHovox",
-   "url": "https://www.rosario.gob.ar/inicio/muestra-el-paisaje-en-filigrana-de-papel",
-   "entradas": {
-    "gratis": true,
-    "url": "https://www.rosario.gob.ar/inicio/muestra-el-paisaje-en-filigrana-de-papel",
-    "texto": "Entrada libre y gratuita"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Artes visuales",
-   "publico": "Todo público",
-   "id": "epq9iw9"
-  },
-  {
    "titulo": "42° Encuentro y Fiesta Nacional de Colectividades",
-   "inicio": "2026-11-10",
+   "inicio": "2026-11-11",
    "fin": "2026-11-15",
    "lugar": "Rosario",
    "descripcion": "¡Regresa la fiesta más convocante de la ciudad! Más de 50 colectividades se hacen presente para vivir 10 días con gastronomía, bailes y expresiones culturales del mundo. \n\nDel 6 al 15 de noviembre, desde las 19 h. De domingo a jueves, hasta las 0:30 (cierre de cajas 0:00h), y los viernes, sábados y víspera de feriado (cierre de cajas 1:00h) hasta la 1:30 h.\n\nEl encuentro cuenta con más de 40 stands distribuidos a lo largo y a lo ancho del Parque Nacional a la Bandera con una oferta variada de platos y bebidas típicas. \n\nOrganizan: Municipalidad de Rosario junto con el Ente Turístico Rosario…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/placas_900x600.jpg.jpeg.webp?itok=Um545PpH",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/placas_900x600.jpg.jpeg.webp?itok=U9gSDQPF",
    "url": "https://www.rosario.gob.ar/inicio/42deg-encuentro-y-fiesta-nacional-de-colectividades",
    "entradas": {
     "gratis": false,
@@ -161,47 +143,65 @@
    "fuente": "Agenda Municipal de Rosario",
    "genero": "Danza",
    "publico": "Todo público",
-   "id": "ew7gpnd"
+   "id": "ew7gpne"
   },
   {
-   "titulo": "Visitas Guiadas Biblioteca Estrada",
-   "inicio": "2026-11-10",
-   "fin": "2026-11-26",
-   "lugar": "Biblioteca Pública Municipal José Manuel Estrada\n BAYO SERVANDO 799, Rosario",
-   "descripcion": "PLANETA BIBLIOTECA: La aventura de leer, para escuelas de Niveles Inicial y Primario y otras instituciones educativas y recreativas. Turno Mañana: martes 9h. Turno Tarde: jueves 14h. Duración aproximada: 1hora. Entrega de turnos: Primer semestre, a partir del lunes 2 de marzo. Segundo semestre, a partir de la primera semana después de las Vacaciones de Invierno. Consultas al 341 712-0357 (msn) de lunes a viernes de 8 a 13.30h o a estradabiblioteca@gmail.com",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-03/Visitas%20Guiadas%20Gestor%20Marzo.png.webp?itok=CSDD3rcp",
-   "url": "https://www.rosario.gob.ar/inicio/visitas-guiadas-biblioteca-estrada",
+   "titulo": "9° Festival de Magia de Rosario",
+   "inicio": "2026-11-11",
+   "fin": "2026-11-21",
+   "lugar": "Rosario",
+   "descripcion": "Del 11 al 21 de noviembre, Rosario será escenario de una nueva edición del Festival de Magia, con espectáculos e intervenciones artísticas en los seis distritos de la ciudad, funciones en la Escuela Municipal de Artes Urbanas y una gran jornada de cierre en la Ex Aduana, con actividades para toda la familia.\n\nEl evento es organizado por la Secretaría de Cultura y Educación de la Municipalidad de Rosario en coproducción con CRAMI (Cooperativa Rosarina de Artistas de la Magia). \n\nEn esta edición, el festival amplía su recorrido por la ciudad con jornadas en los Centros Municipales de Distrito.…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2025-11/MAGIA%20OFICIAL.jpg.webp?itok=-5mR5LPp",
+   "url": "https://www.rosario.gob.ar/inicio/9deg-festival-de-magia-de-rosario",
    "entradas": {
     "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/visitas-guiadas-biblioteca-estrada",
+    "url": "https://www.rosario.gob.ar/inicio/9deg-festival-de-magia-de-rosario",
     "texto": "Consultar en la página oficial de la agenda municipal"
    },
    "fuente": "Agenda Municipal de Rosario",
    "genero": "Infantil",
-   "publico": "Todo público",
-   "id": "e1vpdm3"
+   "publico": "Bebés y primera infancia",
+   "id": "e1pe3j36"
   },
   {
-   "titulo": "Consejo de Niñas y Niños en Casa de Cultura Barrio Alvear",
-   "inicio": "2026-11-10",
-   "fin": "2026-11-24",
-   "lugar": "Casa de Cultura Barrio Alvear\n LETT FRANCISCO N 4253, Rosario",
-   "descripcion": "Los Consejos de Niñas y Niños son un espacio de participación para chicos y chicas de 8 a 11 años, que se reúnen con el propósito de imaginar, analizar y crear propuestas para enriquecer a Rosario. El objetivo principal es que las voces de la infancia sean parte activa de las políticas públicas de la ciudad.\n\nEn esta oportunidad, un nuevo consejo dará inicio en Casa de Cultura Barrio Alvear, los días martes de 14 a 16h.\n\nQuienes deseen sumarse, deberán inscribirse previamente aquí o presencialmente en Casa de Cultura Barrio Alvear (Lett 4253)\n\nInicio: martes 11 de agosto.",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-07/IMG_1134_0.jpg.webp?itok=aH3PuJBr",
-   "url": "https://www.rosario.gob.ar/inicio/consejo-de-ninas-y-ninos-en-casa-de-cultura-barrio-alvear",
+   "titulo": "Primavera en La Granja de la Infancia",
+   "inicio": "2026-11-11",
+   "fin": "2026-11-29",
+   "lugar": "La Granja de la Infancia\n PERON PRESIDENTE JUAN DOM 8000, Rosario",
+   "descripcion": "Un territorio de encuentro entre cultura y naturaleza, donde todo palpita, produce vida, crece, se transforma. Un paseo en la ciudad donde sentir el terreno, llenarse de verde, correr, saltar, trepar, también amasar, tejer, moldear y explorar, hacer nacer el paisaje y jugar para seguir jugando.\n\nJunto a El Jardín de los Niños y La Isla de los inventos, integra el proyecto Tríptico de la Infancia.\n\nEntrada general: $1.000 y menores de 4 años gratis. El 9/11 la Granja permanece cerrada.\n\nPara visitas de grupos educativos, reservar turno llamando de lunes a viernes de 9 a 15 hs. al teléfono 341…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-09/a-granja.jpg.webp?itok=xkBdm3h2",
+   "url": "https://www.rosario.gob.ar/inicio/primavera-en-la-granja-de-la-infancia",
    "entradas": {
     "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/consejo-de-ninas-y-ninos-en-casa-de-cultura-barrio-alvear",
+    "url": "https://www.rosario.gob.ar/inicio/primavera-en-la-granja-de-la-infancia",
     "texto": "Consultar en la página oficial de la agenda municipal"
    },
    "fuente": "Agenda Municipal de Rosario",
    "genero": "Infantil",
    "publico": "Infantil y familiar",
-   "id": "e1ezef03"
+   "id": "ewh3j6e"
+  },
+  {
+   "titulo": "Taller de Técnicas de Danza y Composición Instantánea",
+   "inicio": "2026-11-11",
+   "fin": "2026-11-25",
+   "lugar": "Centro Cultural La Casa del Tango\n ILLIA PTE. ARTURO U. 1750, Rosario",
+   "descripcion": "Taller anual dictado por la docente Cecilia Morini. Dos encuentros por mes en los que se trabajan estilos de las danza clásica y contemporánea y prácticas de composición instantánea y tango. Técnicas de danzas clásica y contemporánea y práctica escénica de improvisación y creación en tiempo real.\n\nModalidad: CUATRIMESTRAL\n\nTodos los miércoles de agosto, septiembre, octubre y noviembre, de 16.30 a 18 h\n\nGratis. Sin inscripción.\n\nSobre María Cecilia MoriniMaestra Nacional de Danzas desde 1987, se desempeñó como profesora de ballet, danza contemporánea, bailes de salón, tango y técnicas del…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-07/T%C3%A9cnicas%20de%20Danza%20y%20Composici%C3%B3n.jpg.webp?itok=yR5bgLhT",
+   "url": "https://www.rosario.gob.ar/inicio/taller-de-tecnicas-de-danza-y-composicion-instantanea",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/taller-de-tecnicas-de-danza-y-composicion-instantanea",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Música",
+   "publico": "Todo público",
+   "id": "e1btwikv"
   },
   {
    "titulo": "Hystérēsis. Anatomía del roce",
-   "inicio": "2026-11-10",
+   "inicio": "2026-11-11",
    "fin": "2026-12-22",
    "lugar": "Rosario",
    "descripcion": "Del 22 de octubre al 22 de diciembre, a partir de las 20 h en Burana bART (Callao 1028) se presenta Hystérēsis. Anatomía del roce, exposición del artista Joan Manuel Medina. A través de un proceso manual de experimentación cromática, compone trece obras pictóricas sobre sustratos impresos en offset y lona vinílica recicladas del descarte de la industria gráfica.\n\nCon el gesto físico del dripping y el splat (salpicado), el color - fondo /figura- está delimitado por dos unidades de Pantone que contrastan fuertemente por complementariedad.La obra presenta un diálogo tenso entre el orden del…",
@@ -215,11 +215,47 @@
    "fuente": "Agenda Municipal de Rosario",
    "genero": "Música",
    "publico": "Todo público",
-   "id": "e1c2hq27"
+   "id": "e1c2hq28"
+  },
+  {
+   "titulo": "Muestra \"Señor D: Cerámicas del Origen. Relecturas Contemporáneas del Noroeste Argentino\"",
+   "inicio": "2026-11-11",
+   "fin": "2026-11-19",
+   "lugar": "Secretaría de Cultura y Educación\n DEL VALLE ARISTOBULO 2734, Rosario",
+   "descripcion": "La Secretaría de Cultura y Educación invita a recorrer la muestra colectiva “Señor D: Cerámicas del Origen. Relecturas Contemporáneas del Noroeste Argentino”, que reúne las producciones de estudiantes del Taller de Alfarería Ancestral de la Facultad de Humanidades y Artes de la Universidad Nacional de Rosario (UNR). La propuesta fue declarada de Interés Municipal por el Concejo Municipal de Rosario y de Interés Provincial por la Cámara de Senadores de la Provincia de Santa Fe.\n\nA través de la cerámica y el grabado, las obras recuperan el legado de las culturas precolombinas del Noroeste…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/se%C3%B1or%20d%20secretaria.png.webp?itok=IIyWubQu",
+   "url": "https://www.rosario.gob.ar/inicio/muestra-senor-d-ceramicas-del-origen.-relecturas-contemporaneas-del-noroeste-argentino-0",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/muestra-senor-d-ceramicas-del-origen.-relecturas-contemporaneas-del-noroeste-argentino-0",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "e4rae08"
+  },
+  {
+   "titulo": "Muestra “El paisaje en filigrana de papel”",
+   "inicio": "2026-11-11",
+   "fin": "2026-11-30",
+   "lugar": "Centro Municipal de Distrito Centro \"Antonio Berni\"\n WHEELWRIGHT GUILLERMO 1486, Rosario",
+   "descripcion": "El Distrito Centro Antonio Berni invita a recorrer una muestra colectiva que reúne las producciones de las alumnas del taller de filigrana de la Academia Filigrana Rosario, a cargo de la artista y docente Patricia Di Vincenzo.\n\nLa exposición invita a descubrir las posibilidades expresivas de esta técnica, que transforma el papel en paisajes y composiciones capaces de evocar aquello que nos identifica y nos representa. Las obras de las alumnas reúnen diversas miradas, sensibilidades y búsquedas creativas, y ponen en valor el aprendizaje compartido y la experiencia artística colectiva.\n\nLa…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-10/imagen_900x600_0.jpg.webp?itok=8WGHovox",
+   "url": "https://www.rosario.gob.ar/inicio/muestra-el-paisaje-en-filigrana-de-papel",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/muestra-el-paisaje-en-filigrana-de-papel",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "epq9iww"
   },
   {
    "titulo": "\"Balcarce 681\": muestra de fotografías inéditas tomadas a Fito Páez en su casa de Rosario",
-   "inicio": "2026-11-10T13:30:00-03:00",
+   "inicio": "2026-11-11T13:30:00-03:00",
    "fin": "2027-02-05",
    "lugar": "Biblioteca Argentina Dr. Juan Álvarez\n ROCA PTE. JULIO ARGENTINO 731, Rosario",
    "descripcion": "En el hall de la planta baja de la Biblioteca Argentina Dr. Juan Álvarez se encuentra exhibida la muestra “Balcarce 681” para vivir la experiencia de recorrer la historia de una serie de fotografías inéditas tomadas al músico Rodolfo (Fito) Páez por el fotógrafo Alejandro Lamas y publicadas en el n.° 10 de la revista “Risario” en marzo de 1983. Las fotos fueron captadas en su casa, ubicada en esa dirección en Rosario. Con entrada libre y gratuita.\n\nLa muestra se compone de fotografías en blanco y negro de película de rollo captadas por el fotógrafo Alejandro Lamas. En su mayoría fueron…",
@@ -233,25 +269,7 @@
    "fuente": "Agenda Municipal de Rosario",
    "genero": "Artes visuales",
    "publico": "Todo público",
-   "id": "e1h90km9"
-  },
-  {
-   "titulo": "9° Festival de Magia de Rosario",
-   "inicio": "2026-11-11",
-   "fin": "2026-11-21",
-   "lugar": "Rosario",
-   "descripcion": "Del 11 al 21 de noviembre, Rosario será escenario de una nueva edición del Festival de Magia, con espectáculos e intervenciones artísticas en los seis distritos de la ciudad, funciones en la Escuela Municipal de Artes Urbanas y una gran jornada de cierre en la Ex Aduana, con actividades para toda la familia.\n\nEl evento es organizado por la Secretaría de Cultura y Educación de la Municipalidad de Rosario en coproducción con CRAMI (Cooperativa Rosarina de Artistas de la Magia). \n\nEn esta edición, el festival amplía su recorrido por la ciudad con jornadas en los Centros Municipales de Distrito.…",
-   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2025-11/MAGIA%20OFICIAL.jpg.webp?itok=LMCOs3FR",
-   "url": "https://www.rosario.gob.ar/inicio/9deg-festival-de-magia-de-rosario",
-   "entradas": {
-    "gratis": false,
-    "url": "https://www.rosario.gob.ar/inicio/9deg-festival-de-magia-de-rosario",
-    "texto": "Consultar en la página oficial de la agenda municipal"
-   },
-   "fuente": "Agenda Municipal de Rosario",
-   "genero": "Infantil",
-   "publico": "Bebés y primera infancia",
-   "id": "e1pe3j36"
+   "id": "e1h90kma"
   },
   {
    "titulo": "Casa Abierta en Casa de Cultura Barrio Alvear",
@@ -308,6 +326,60 @@
    "id": "ehll77k"
   },
   {
+   "titulo": "Exposición: María Fernanda Salas",
+   "inicio": "2026-11-13T19:00:00-03:00",
+   "fin": "",
+   "lugar": "Rosario",
+   "descripcion": "De Visita - Automatismo Psíquico – Óleos. Sala Principal. \nMuestra Colectiva: Formas, y el aire. Óleo-Fotografía-Acuarelas-Escultura-Técnica Mixta. Sala Azul. \nPatrimonio de La Tertulia: Boceto desechado Estación Fluvial - Raúl Domínguez. Colección de fotografía estable - Livio Castellani. \n\nDías y horarios: Mar a Vie 17-20 | Mar, Jue, y Sáb 10-13 hs.\nGalería de Arte La Tertulia. 3 de Febrero 464.",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/Galer%C3%ADa%20La%20Tertulia.png.webp?itok=CFcX5Gph",
+   "url": "https://www.rosario.gob.ar/inicio/exposicion-maria-fernanda-salas",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/exposicion-maria-fernanda-salas",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "e1fv2lmv"
+  },
+  {
+   "titulo": "Circuitos Culturales +65: visitas especiales",
+   "inicio": "2026-11-17T17:30:00-03:00",
+   "fin": "2026-12-22",
+   "lugar": "Rosario",
+   "descripcion": "Se encuentra abierta la preinscripción a las Visitas Especiales, en el marco de los Circuitos Culturales +65. Las mismas constan de 4 ejes y las personas interesadas se podrán inscribir al que más les interesen. \n\nPreinscripción previa\n\nEje Arte e Historia\n\nVisita Mediada a \"La Ruta de los Azulejos\". Museo de la Ciudad Wladimir Mikielievich – Bv. Oroño 2361. Fechas: 17/11 y 24/11 a las 10 h.\nLa Casa Museo, recorriendo los gestos del tiempo. Museo Municipal de Arte Decorativo Firma y Odilio Estevez – Santa Fe 748. Fechas: 17/11, 24/11, 15/12 y 22/12 a las 10 h.\nVisita al 79° Salón Nacional y…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/circuito_cultural_65.jpg.webp?itok=g-zLA5CV",
+   "url": "https://www.rosario.gob.ar/inicio/circuitos-culturales-65-visitas-especiales",
+   "entradas": {
+    "gratis": false,
+    "url": "https://www.rosario.gob.ar/inicio/circuitos-culturales-65-visitas-especiales",
+    "texto": "Consultar en la página oficial de la agenda municipal"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "euvkkcl"
+  },
+  {
+   "titulo": "27° Feria de Librerías de Viejo de Rosario en el ECU",
+   "inicio": "2026-11-20T12:00:00-03:00",
+   "fin": "2026-11-23",
+   "lugar": "Espacio Cultural Universitario\n SAN MARTIN GRAL. JOSE 750, Rosario",
+   "descripcion": "La 27ª edición de la Feria de Librerías de Viejo se realizará del viernes 20 al lunes 23 de noviembre en el Espacio Cultural Universitario (ECU), de San Martín 750, con entrada libre y gratuita. Una vez más, el encuentro vuelve a consolidarse como una oportunidad única para descubrir libros usados, descatalogados, además de charlas y música en vivo.\n\nEsta actividad se gestó con la idea de armar una encuentro ocasional, sin embargo, se consolidó como una de las actividades culturales de la ciudad. Desde entonces se desarrolla año tras año y reúne a los más renombrados libreros de Rosario con…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2025-11/feria_librerias_viejo.jpeg.webp?itok=h6JfLlfO",
+   "url": "https://www.rosario.gob.ar/inicio/27deg-feria-de-librerias-de-viejo-de-rosario-en-el-ecu",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/27deg-feria-de-librerias-de-viejo-de-rosario-en-el-ecu",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Música",
+   "publico": "Todo público",
+   "id": "e131tnge"
+  },
+  {
    "titulo": "Concierto de la Orquesta de Carlos Quilici",
    "inicio": "2026-11-21T21:00:00-03:00",
    "fin": "",
@@ -342,6 +414,24 @@
    "genero": "Teatro",
    "publico": "Todo público",
    "id": "ee7qduw"
+  },
+  {
+   "titulo": "Negro Pasión + Inspiraciones e influencias",
+   "inicio": "2026-11-26T19:00:00-03:00",
+   "fin": "2026-11-29",
+   "lugar": "Cultural Fontanarrosa\n SAN MARTIN GRAL. JOSE 1080, Rosario",
+   "descripcion": "En el marco de la realización del Festival Fontanarrosa podrá visitarse Negro Pasión, una exposición que recorrerá la vida del Negro, con eje en sus libros y pasiones.\n\nUn viaje íntimo por el multiverso infinito del escritor con más de 50 fotografías e ilustraciones, acompañadas por sus cuadernos escolares (donde los dibujos en los márgenes combaten con las ecuaciones matemáticas), libretas de ideas (con los gérmenes de sus historias), originales de sus cuentos y objetos personales.\n\nLa muestra tendrá lugar en el Entrepiso del Cultural Fontanarrosa. La investigación y curaduría está a cargo…",
+   "imagen": "https://www.rosario.gob.ar/inicio/sites/default/files/styles/colorbox_modal/public/2026-11/negro%20con%20perro.jpeg.webp?itok=BDuGiOkS",
+   "url": "https://www.rosario.gob.ar/inicio/negro-pasion-inspiraciones-e-influencias",
+   "entradas": {
+    "gratis": true,
+    "url": "https://www.rosario.gob.ar/inicio/negro-pasion-inspiraciones-e-influencias",
+    "texto": "Entrada libre y gratuita"
+   },
+   "fuente": "Agenda Municipal de Rosario",
+   "genero": "Artes visuales",
+   "publico": "Todo público",
+   "id": "e1ogk4m6"
   },
   {
    "titulo": "Bebés en bibliotecas",
