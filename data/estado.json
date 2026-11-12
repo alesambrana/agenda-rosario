@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-11T16:44:13.179Z",
- "total": 26,
+ "actualizado": "2026-11-12T17:12:19.386Z",
+ "total": 30,
  "fuentes": [
   {
    "fuente": "Agenda Municipal de Rosario",
    "ok": true,
-   "encontrados": 26,
-   "publicados": 26,
-   "segundos": 11.7
+   "encontrados": 30,
+   "publicados": 30,
+   "segundos": 12.4
   },
   {
    "fuente": "Eventbrite Rosario",
