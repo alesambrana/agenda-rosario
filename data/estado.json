@@ -1,20 +1,19 @@
 {
- "actualizado": "2026-11-19T17:48:35.699Z",
- "total": 37,
+ "actualizado": "2026-11-20T17:24:26.688Z",
+ "total": 38,
  "fuentes": [
   {
    "fuente": "Agenda Municipal de Rosario",
    "ok": true,
-   "encontrados": 37,
-   "publicados": 37,
-   "segundos": 6.8
+   "encontrados": 38,
+   "publicados": 38,
+   "segundos": 9.8
   },
   {
    "fuente": "Eventbrite Rosario",
-   "ok": true,
-   "encontrados": 17,
-   "publicados": 0,
-   "segundos": 1.1
+   "ok": false,
+   "error": "HTTP 405 en https://www.eventbrite.com.ar/d/argentina--rosario/events/",
+   "conservados": 0
   }
  ]
 }
